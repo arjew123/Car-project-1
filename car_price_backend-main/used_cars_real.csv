@@ -1,0 +1,2001 @@
+brand,model,year,mileage,condition,fuel_type,transmission,owners,price
+Mahindra,Thar,2022,50369,Good,Petrol,Manual,1,450252
+Tata,Harrier,2016,126842,Poor,Diesel,Manual,1,105623
+Mahindra,XUV700,2017,95804,Excellent,EV,Manual,1,445472
+Mahindra,Scorpio,2015,135017,Good,Petrol,Automatic,1,85846
+Mahindra,Thar,2023,25866,Excellent,Petrol,Manual,2,901078
+Tata,Harrier,2012,173597,Good,Diesel,Manual,1,106555
+Toyota,Innova,2013,157093,Poor,Petrol,Manual,1,60336
+Honda,Amaze,2016,124408,Good,EV,Automatic,1,207204
+Honda,City,2020,74910,Fair,Diesel,Manual,1,274903
+Maruti Suzuki,Baleno,2012,172438,Excellent,Petrol,Manual,2,111673
+Tata,Tiago,2012,169634,Fair,Diesel,Manual,1,50000
+Hyundai,Creta,2023,35594,Excellent,Petrol,Automatic,1,844316
+Toyota,Innova,2018,100363,Good,CNG,Manual,2,533695
+Hyundai,i20,2025,23436,Good,CNG,Automatic,1,1255899
+Tata,Harrier,2018,94453,Excellent,Petrol,Manual,2,585265
+Toyota,Glanza,2020,75365,Good,Diesel,Manual,1,350556
+Maruti Suzuki,Swift,2025,11907,Good,Petrol,Manual,2,918667
+Toyota,Glanza,2016,111632,Good,Diesel,Automatic,1,278627
+Toyota,Glanza,2015,130928,Good,Diesel,Manual,4,113817
+Maruti Suzuki,Swift,2023,32554,Good,Diesel,Automatic,1,572417
+Hyundai,Venue,2014,140398,Poor,Petrol,Manual,2,141433
+Maruti Suzuki,Swift,2013,154650,Poor,CNG,Manual,2,133419
+Maruti Suzuki,Swift,2013,161002,Excellent,Petrol,Automatic,2,229601
+Toyota,Innova,2019,84762,Fair,CNG,Automatic,2,400430
+Toyota,Innova,2014,143285,Good,EV,Manual,1,187777
+Mahindra,Scorpio,2014,134327,Good,Diesel,Manual,1,127643
+Toyota,Fortuner,2017,107942,Poor,Petrol,Manual,2,247557
+Maruti Suzuki,Swift,2023,38066,Fair,Petrol,Manual,2,430157
+Mahindra,XUV700,2024,27034,Fair,EV,Manual,1,765950
+Mahindra,Thar,2015,130255,Good,Petrol,Automatic,1,126939
+Maruti Suzuki,Baleno,2017,111150,Excellent,Diesel,Automatic,1,380684
+Hyundai,Creta,2012,176814,Fair,Petrol,Automatic,1,50000
+Hyundai,Venue,2013,158575,Fair,Diesel,Automatic,2,188013
+Mahindra,XUV700,2013,175263,Good,Diesel,Manual,1,257212
+Toyota,Fortuner,2021,57640,Excellent,Diesel,Automatic,1,742721
+Mahindra,XUV700,2024,29444,Excellent,Petrol,Automatic,1,623728
+Hyundai,Creta,2025,11464,Good,Diesel,Manual,1,601842
+Maruti Suzuki,Swift,2012,165568,Excellent,Petrol,Manual,1,175732
+Honda,City,2012,178610,Good,Petrol,Manual,2,50000
+Toyota,Innova,2012,173162,Good,EV,Manual,1,163299
+Honda,Civic,2015,130737,Good,Diesel,Automatic,1,195845
+Hyundai,Venue,2021,53761,Good,Diesel,Automatic,2,835147
+Hyundai,i20,2023,39235,Good,Petrol,Automatic,1,788732
+Honda,Civic,2012,168630,Poor,CNG,Manual,1,50000
+Hyundai,i20,2014,136281,Good,Petrol,Automatic,1,123901
+Mahindra,XUV700,2016,125584,Good,CNG,Manual,1,454321
+Mahindra,XUV700,2016,123736,Poor,Petrol,Manual,2,126422
+Toyota,Innova,2023,39051,Good,Diesel,Automatic,1,1035044
+Toyota,Innova,2017,105051,Excellent,EV,Automatic,1,583883
+Mahindra,Scorpio,2021,58508,Good,Petrol,Manual,1,702806
+Mahindra,Thar,2018,94287,Poor,EV,Automatic,1,329915
+Honda,Civic,2022,49246,Excellent,Petrol,Automatic,2,434792
+Toyota,Innova,2019,81644,Excellent,EV,Manual,1,678710
+Maruti Suzuki,Swift,2015,133160,Good,Diesel,Manual,1,304883
+Hyundai,Creta,2014,143904,Excellent,Petrol,Manual,1,77415
+Maruti Suzuki,WagonR,2012,162987,Good,Petrol,Manual,1,50000
+Maruti Suzuki,Baleno,2016,120348,Poor,Petrol,Manual,3,153432
+Maruti Suzuki,Swift,2025,16917,Good,EV,Automatic,1,1135702
+Tata,Harrier,2019,79622,Good,Petrol,Automatic,1,337493
+Mahindra,Thar,2020,70825,Good,Petrol,Manual,1,484304
+Honda,City,2024,17398,Poor,CNG,Manual,1,497330
+Maruti Suzuki,Baleno,2012,177157,Good,Diesel,Manual,2,78088
+Maruti Suzuki,Baleno,2020,64027,Excellent,CNG,Automatic,4,782831
+Honda,Civic,2016,117003,Fair,Diesel,Manual,1,154969
+Maruti Suzuki,WagonR,2024,17157,Good,Diesel,Manual,1,987778
+Hyundai,Creta,2017,110677,Fair,Petrol,Automatic,3,95791
+Tata,Nexon,2012,171226,Fair,Petrol,Manual,1,50000
+Hyundai,Creta,2025,18843,Good,Petrol,Automatic,1,897713
+Mahindra,XUV700,2018,105529,Fair,Petrol,Automatic,2,142331
+Honda,Amaze,2017,109138,Good,Petrol,Automatic,1,169466
+Maruti Suzuki,WagonR,2018,87179,Good,Petrol,Automatic,1,576796
+Tata,Nexon,2013,163499,Good,Petrol,Automatic,1,91459
+Toyota,Innova,2017,107464,Good,Petrol,Manual,2,126686
+Maruti Suzuki,WagonR,2020,66823,Good,Diesel,Manual,1,273292
+Mahindra,Thar,2019,80317,Good,Petrol,Manual,2,374084
+Hyundai,i20,2021,62897,Excellent,Petrol,Automatic,2,632167
+Mahindra,Thar,2013,163618,Good,Petrol,Manual,1,84073
+Toyota,Fortuner,2025,1000,Excellent,CNG,Manual,2,1284450
+Honda,Amaze,2015,143871,Fair,Petrol,Manual,1,149751
+Hyundai,Creta,2022,53072,Good,EV,Automatic,1,421090
+Toyota,Fortuner,2018,101944,Excellent,Diesel,Manual,2,181824
+Honda,Civic,2017,107793,Good,EV,Automatic,2,214734
+Toyota,Glanza,2025,12496,Good,Petrol,Automatic,1,800554
+Tata,Nexon,2015,135756,Good,Petrol,Automatic,1,259815
+Tata,Tiago,2015,136409,Good,Petrol,Manual,1,130475
+Hyundai,i20,2016,111575,Excellent,Petrol,Manual,2,414674
+Maruti Suzuki,Swift,2025,9201,Poor,EV,Manual,1,845578
+Toyota,Innova,2019,91525,Fair,Diesel,Automatic,2,231569
+Tata,Tiago,2025,1000,Fair,Petrol,Automatic,1,729481
+Tata,Nexon,2017,109803,Good,Petrol,Manual,1,296369
+Hyundai,Creta,2016,121178,Excellent,CNG,Automatic,1,168252
+Honda,City,2015,135854,Fair,Diesel,Automatic,2,231449
+Tata,Tiago,2012,168357,Fair,CNG,Manual,2,50000
+Mahindra,Thar,2019,81611,Good,Diesel,Manual,1,421882
+Honda,Amaze,2022,54929,Good,Petrol,Manual,1,927749
+Toyota,Fortuner,2019,89043,Good,Petrol,Automatic,3,222559
+Hyundai,i20,2012,168546,Good,CNG,Automatic,1,120291
+Hyundai,i20,2017,111628,Excellent,Petrol,Automatic,3,138021
+Honda,City,2021,72693,Good,Petrol,Manual,2,270261
+Maruti Suzuki,WagonR,2015,134619,Good,CNG,Manual,1,314113
+Maruti Suzuki,WagonR,2022,42372,Excellent,Petrol,Manual,3,592171
+Tata,Harrier,2021,59254,Excellent,Diesel,Manual,3,373479
+Toyota,Fortuner,2023,29301,Good,Petrol,Manual,1,975888
+Toyota,Fortuner,2024,24744,Good,Petrol,Automatic,1,694205
+Tata,Tiago,2013,142745,Good,Diesel,Manual,1,262185
+Tata,Harrier,2021,65457,Fair,Diesel,Automatic,3,621367
+Honda,City,2020,68477,Good,Petrol,Manual,2,334238
+Maruti Suzuki,WagonR,2019,80358,Excellent,Petrol,Automatic,2,656668
+Mahindra,Thar,2017,104713,Fair,Petrol,Manual,1,131594
+Honda,Civic,2015,127313,Good,Diesel,Automatic,2,156828
+Hyundai,Venue,2018,101926,Good,CNG,Manual,3,457287
+Maruti Suzuki,Baleno,2025,8649,Good,CNG,Automatic,1,557124
+Toyota,Innova,2019,80028,Good,Diesel,Manual,1,661366
+Hyundai,Venue,2016,128103,Excellent,CNG,Manual,1,213999
+Maruti Suzuki,Swift,2020,81054,Excellent,Petrol,Manual,1,705714
+Hyundai,i20,2020,71895,Good,Diesel,Automatic,1,673003
+Toyota,Fortuner,2023,36736,Excellent,Diesel,Manual,3,938319
+Tata,Harrier,2013,154887,Good,EV,Manual,1,79755
+Mahindra,Scorpio,2014,145179,Poor,Petrol,Automatic,1,90456
+Maruti Suzuki,Swift,2020,73163,Fair,Diesel,Manual,1,259578
+Mahindra,Scorpio,2025,16928,Poor,Diesel,Automatic,1,390057
+Tata,Tiago,2016,117027,Fair,Diesel,Automatic,4,298193
+Mahindra,Scorpio,2022,52092,Excellent,Diesel,Manual,3,1001715
+Honda,Amaze,2025,12669,Excellent,Petrol,Manual,2,1143131
+Tata,Nexon,2013,156398,Good,Petrol,Manual,2,124087
+Toyota,Innova,2024,29066,Good,CNG,Automatic,1,485841
+Hyundai,Creta,2025,15204,Excellent,Petrol,Manual,1,617887
+Mahindra,Thar,2019,83140,Good,Petrol,Manual,1,474930
+Maruti Suzuki,Baleno,2012,166498,Good,Petrol,Manual,1,50000
+Toyota,Glanza,2020,67976,Excellent,Petrol,Manual,3,695208
+Honda,Civic,2023,40921,Poor,Petrol,Automatic,1,711033
+Tata,Nexon,2017,106930,Good,Diesel,Manual,1,230631
+Maruti Suzuki,Baleno,2014,146342,Good,Petrol,Manual,1,193759
+Tata,Harrier,2014,146540,Fair,Diesel,Manual,2,59800
+Honda,Civic,2020,79737,Excellent,CNG,Manual,1,798413
+Maruti Suzuki,Baleno,2023,44979,Excellent,Petrol,Automatic,2,626634
+Mahindra,Scorpio,2017,112420,Good,Petrol,Manual,2,135636
+Maruti Suzuki,Baleno,2019,79246,Fair,Diesel,Automatic,1,465004
+Tata,Nexon,2024,24786,Fair,Petrol,Manual,1,615628
+Honda,City,2016,128656,Good,Diesel,Automatic,1,418533
+Hyundai,i20,2014,141290,Poor,Petrol,Manual,2,56724
+Hyundai,i20,2025,15194,Good,Diesel,Manual,1,538238
+Honda,Civic,2017,113931,Good,Petrol,Automatic,2,173321
+Mahindra,XUV700,2015,130818,Good,Diesel,Manual,1,186015
+Hyundai,Venue,2013,157835,Excellent,Petrol,Manual,1,239978
+Hyundai,Venue,2021,57370,Excellent,Petrol,Automatic,1,889954
+Honda,City,2022,53609,Good,EV,Manual,1,951517
+Honda,Civic,2015,138552,Good,Petrol,Automatic,1,362441
+Hyundai,i20,2014,144371,Good,CNG,Manual,3,50000
+Maruti Suzuki,Swift,2016,118852,Excellent,Petrol,Manual,1,439090
+Mahindra,Thar,2019,84982,Fair,Petrol,Manual,1,468787
+Mahindra,Thar,2017,111545,Good,Petrol,Automatic,1,374707
+Tata,Nexon,2012,165738,Good,Petrol,Automatic,2,146486
+Tata,Harrier,2014,131880,Excellent,Petrol,Automatic,1,223312
+Toyota,Innova,2021,60312,Fair,Petrol,Automatic,1,423612
+Toyota,Glanza,2021,56097,Good,Diesel,Manual,1,377862
+Tata,Nexon,2014,145052,Good,Diesel,Manual,3,266206
+Mahindra,XUV700,2015,136401,Good,Diesel,Manual,2,217644
+Hyundai,Creta,2021,57101,Excellent,Petrol,Automatic,1,760833
+Maruti Suzuki,Swift,2014,143879,Good,EV,Manual,1,278749
+Tata,Harrier,2017,103333,Poor,EV,Automatic,1,273625
+Honda,Amaze,2012,171766,Fair,Petrol,Automatic,1,158509
+Honda,Amaze,2015,147524,Good,Diesel,Manual,1,254146
+Hyundai,Creta,2018,97737,Good,Diesel,Automatic,1,452981
+Honda,Civic,2012,170008,Poor,Petrol,Manual,3,50000
+Honda,Amaze,2024,20571,Good,Petrol,Manual,1,914240
+Mahindra,XUV700,2018,94187,Poor,Petrol,Automatic,1,340466
+Mahindra,Thar,2018,90401,Good,Petrol,Manual,1,416153
+Hyundai,Creta,2020,64217,Good,Diesel,Manual,1,294417
+Honda,Civic,2016,117859,Good,Diesel,Automatic,1,425324
+Toyota,Glanza,2024,22391,Excellent,Diesel,Manual,1,596411
+Maruti Suzuki,Swift,2014,141744,Excellent,Petrol,Automatic,3,50000
+Hyundai,i20,2013,156338,Good,Diesel,Manual,1,50000
+Toyota,Innova,2015,134000,Fair,Petrol,Automatic,3,50000
+Honda,Amaze,2016,119485,Good,Diesel,Automatic,2,115302
+Maruti Suzuki,Baleno,2015,131866,Good,Petrol,Automatic,1,288194
+Hyundai,Creta,2023,37712,Good,CNG,Automatic,2,446765
+Maruti Suzuki,WagonR,2015,126441,Good,Diesel,Automatic,1,379439
+Honda,City,2018,102448,Excellent,Diesel,Manual,1,367294
+Honda,Civic,2023,34693,Good,Diesel,Manual,1,428117
+Tata,Tiago,2019,89448,Good,Petrol,Automatic,1,446417
+Honda,City,2021,67669,Excellent,Petrol,Manual,1,636656
+Tata,Tiago,2017,112274,Good,Diesel,Manual,2,133848
+Maruti Suzuki,WagonR,2014,148897,Excellent,CNG,Manual,1,196411
+Honda,Amaze,2022,48288,Good,Petrol,Automatic,1,978790
+Hyundai,i20,2025,15848,Excellent,Diesel,Manual,1,1225270
+Maruti Suzuki,Baleno,2024,30987,Good,Petrol,Automatic,3,858466
+Toyota,Innova,2017,107624,Good,Diesel,Automatic,1,286559
+Hyundai,i20,2021,55713,Fair,CNG,Automatic,2,620924
+Hyundai,i20,2018,90708,Good,Petrol,Automatic,2,251786
+Maruti Suzuki,Baleno,2016,126122,Good,Petrol,Manual,1,279373
+Hyundai,Venue,2018,104116,Good,Petrol,Manual,2,446045
+Mahindra,XUV700,2014,135754,Poor,Diesel,Manual,2,128950
+Maruti Suzuki,Swift,2022,53228,Good,Diesel,Manual,2,749113
+Mahindra,Scorpio,2016,123156,Good,Petrol,Manual,1,118399
+Mahindra,XUV700,2017,100216,Good,Diesel,Manual,1,376986
+Mahindra,Thar,2024,30556,Excellent,Petrol,Manual,2,480259
+Mahindra,Scorpio,2025,15472,Good,Petrol,Manual,4,1203818
+Mahindra,Thar,2020,68756,Good,Diesel,Automatic,2,507296
+Mahindra,XUV700,2024,25366,Excellent,Petrol,Manual,1,591728
+Tata,Nexon,2020,78550,Good,CNG,Automatic,1,673132
+Toyota,Innova,2015,132195,Good,CNG,Manual,2,166131
+Hyundai,Creta,2025,14842,Good,Petrol,Manual,1,1103481
+Hyundai,Creta,2015,134997,Good,CNG,Manual,1,170108
+Toyota,Innova,2025,13434,Fair,Diesel,Manual,1,807209
+Mahindra,Thar,2023,35421,Fair,Petrol,Manual,3,816991
+Honda,Civic,2017,99717,Good,Diesel,Manual,1,346149
+Hyundai,i20,2019,90282,Good,Petrol,Manual,1,592095
+Toyota,Glanza,2018,94059,Good,EV,Automatic,2,287347
+Mahindra,XUV700,2018,96852,Fair,Diesel,Manual,2,259431
+Tata,Harrier,2025,9968,Poor,Petrol,Manual,1,772122
+Honda,Amaze,2018,90188,Excellent,Diesel,Manual,1,322549
+Honda,City,2013,149060,Good,Petrol,Manual,1,50000
+Hyundai,Creta,2019,80188,Fair,Diesel,Automatic,1,584858
+Maruti Suzuki,Swift,2012,170325,Fair,Petrol,Manual,3,50000
+Honda,Civic,2018,96833,Good,CNG,Automatic,2,178068
+Honda,Civic,2016,120443,Good,Petrol,Manual,2,98964
+Tata,Nexon,2016,128610,Good,Petrol,Manual,4,361863
+Tata,Tiago,2014,141742,Excellent,Diesel,Automatic,1,50000
+Mahindra,Thar,2019,81819,Fair,Diesel,Manual,1,240260
+Toyota,Fortuner,2020,74279,Excellent,EV,Automatic,1,858616
+Toyota,Innova,2016,130825,Poor,Diesel,Automatic,1,68907
+Maruti Suzuki,Baleno,2018,94807,Good,Petrol,Manual,1,591521
+Mahindra,Scorpio,2025,8104,Excellent,EV,Automatic,1,1389688
+Mahindra,Thar,2013,149793,Poor,Diesel,Manual,1,50000
+Toyota,Fortuner,2022,51027,Good,Diesel,Automatic,1,791656
+Mahindra,Scorpio,2013,156152,Fair,Diesel,Manual,1,123983
+Toyota,Glanza,2018,88540,Good,CNG,Automatic,2,229329
+Hyundai,Creta,2019,88142,Poor,Petrol,Manual,2,185259
+Hyundai,i20,2025,7366,Good,Petrol,Manual,2,966566
+Toyota,Fortuner,2021,61562,Excellent,Diesel,Automatic,2,789230
+Toyota,Glanza,2016,121596,Excellent,Petrol,Automatic,2,166439
+Hyundai,i20,2017,116405,Excellent,Diesel,Manual,2,151443
+Mahindra,Thar,2025,8245,Fair,Petrol,Manual,2,469701
+Hyundai,Creta,2013,154468,Good,Diesel,Manual,2,185259
+Hyundai,Creta,2016,120327,Fair,Diesel,Manual,1,190331
+Maruti Suzuki,Baleno,2015,135865,Good,Petrol,Automatic,1,123175
+Toyota,Glanza,2025,16411,Fair,Diesel,Automatic,1,845781
+Hyundai,Creta,2014,141361,Good,Petrol,Automatic,1,170175
+Tata,Nexon,2024,27857,Good,Petrol,Manual,3,940893
+Hyundai,Creta,2018,94628,Poor,Petrol,Manual,1,130624
+Toyota,Glanza,2014,139003,Good,Diesel,Automatic,1,172766
+Maruti Suzuki,Swift,2017,107893,Excellent,Petrol,Automatic,1,391255
+Maruti Suzuki,WagonR,2018,92263,Excellent,Petrol,Automatic,1,264742
+Honda,Amaze,2021,52187,Fair,EV,Manual,2,345561
+Maruti Suzuki,WagonR,2014,141354,Poor,Diesel,Manual,1,54528
+Mahindra,Scorpio,2021,61319,Good,EV,Manual,1,624409
+Toyota,Innova,2012,165047,Good,Petrol,Automatic,1,50000
+Toyota,Innova,2013,164163,Good,Diesel,Manual,1,269460
+Tata,Tiago,2012,166695,Good,Petrol,Manual,1,169343
+Toyota,Glanza,2019,85788,Excellent,Petrol,Automatic,1,640243
+Maruti Suzuki,WagonR,2013,151813,Excellent,Petrol,Automatic,1,162886
+Toyota,Glanza,2015,120979,Excellent,Petrol,Manual,1,123761
+Mahindra,Thar,2015,126812,Good,Petrol,Automatic,1,377497
+Hyundai,Creta,2023,40912,Good,CNG,Automatic,1,1088635
+Maruti Suzuki,Swift,2018,99281,Excellent,CNG,Automatic,1,407401
+Toyota,Fortuner,2017,103703,Poor,Petrol,Manual,2,159890
+Mahindra,XUV700,2021,65711,Good,Petrol,Manual,1,610396
+Maruti Suzuki,Baleno,2021,60971,Excellent,CNG,Automatic,1,793789
+Mahindra,Thar,2022,46234,Poor,Diesel,Manual,1,573244
+Mahindra,XUV700,2021,57714,Excellent,Diesel,Manual,3,750774
+Hyundai,Creta,2022,46490,Good,Diesel,Manual,2,632091
+Tata,Tiago,2012,169862,Good,Diesel,Manual,1,191229
+Mahindra,Thar,2019,80049,Excellent,Petrol,Manual,2,330308
+Honda,Civic,2020,77143,Poor,CNG,Automatic,2,377493
+Hyundai,Venue,2012,161416,Fair,Petrol,Manual,1,66114
+Toyota,Innova,2019,82808,Fair,Petrol,Manual,1,200551
+Toyota,Glanza,2017,102931,Fair,Petrol,Automatic,2,375606
+Mahindra,Thar,2018,101016,Good,Diesel,Automatic,1,270169
+Honda,City,2015,142284,Excellent,Petrol,Manual,1,172856
+Tata,Nexon,2014,147727,Good,Petrol,Automatic,2,101773
+Toyota,Innova,2019,79570,Excellent,Petrol,Manual,2,234796
+Tata,Tiago,2025,12350,Excellent,Diesel,Manual,1,672618
+Honda,City,2015,137809,Fair,Petrol,Automatic,1,251347
+Mahindra,XUV700,2023,30397,Good,Petrol,Manual,3,670137
+Maruti Suzuki,Swift,2014,143450,Good,Diesel,Manual,1,185649
+Toyota,Fortuner,2019,91395,Good,Diesel,Manual,1,387379
+Mahindra,XUV700,2021,63055,Poor,Petrol,Manual,1,378407
+Tata,Harrier,2014,137560,Good,Diesel,Automatic,1,299852
+Mahindra,Thar,2021,46842,Good,Petrol,Manual,1,354230
+Maruti Suzuki,Swift,2019,85065,Excellent,Petrol,Manual,2,471480
+Tata,Harrier,2014,140240,Good,CNG,Manual,1,264569
+Honda,City,2024,16094,Fair,EV,Automatic,1,818169
+Toyota,Innova,2018,100475,Excellent,CNG,Manual,2,547949
+Mahindra,XUV700,2016,118944,Fair,Petrol,Manual,1,384809
+Honda,City,2021,55064,Good,Diesel,Manual,2,815917
+Maruti Suzuki,WagonR,2023,38258,Fair,Diesel,Automatic,4,755725
+Maruti Suzuki,Baleno,2023,30625,Good,Petrol,Manual,1,507691
+Maruti Suzuki,WagonR,2020,76277,Fair,Diesel,Manual,2,319620
+Honda,Amaze,2021,66436,Good,Petrol,Manual,1,639465
+Maruti Suzuki,WagonR,2018,99967,Good,Diesel,Automatic,2,310458
+Mahindra,Thar,2018,87257,Excellent,CNG,Manual,1,221473
+Mahindra,XUV700,2023,38182,Excellent,Diesel,Manual,2,862240
+Toyota,Innova,2015,138631,Excellent,EV,Manual,3,197622
+Honda,Amaze,2022,39163,Good,Petrol,Manual,1,900635
+Honda,Amaze,2023,28745,Good,CNG,Automatic,2,1073575
+Honda,Civic,2025,4301,Good,Diesel,Manual,1,989932
+Toyota,Innova,2022,40568,Fair,Petrol,Automatic,2,385606
+Honda,Amaze,2023,39174,Good,Petrol,Manual,4,426405
+Hyundai,Venue,2015,129456,Good,EV,Automatic,2,233358
+Hyundai,Venue,2016,116530,Fair,Diesel,Automatic,1,277538
+Hyundai,Venue,2017,110274,Good,CNG,Manual,2,157911
+Maruti Suzuki,Swift,2025,12093,Excellent,Diesel,Manual,1,1033088
+Tata,Nexon,2025,15268,Fair,Petrol,Manual,1,855157
+Tata,Nexon,2025,1001,Good,Diesel,Automatic,1,1368106
+Mahindra,Thar,2012,159437,Good,Petrol,Manual,1,50000
+Honda,City,2025,15613,Fair,CNG,Manual,2,794269
+Toyota,Innova,2023,31688,Fair,Petrol,Manual,3,312563
+Tata,Harrier,2019,90046,Excellent,Petrol,Automatic,2,632697
+Maruti Suzuki,WagonR,2013,148802,Excellent,Petrol,Automatic,1,226008
+Toyota,Glanza,2014,154547,Good,Diesel,Manual,1,290510
+Hyundai,i20,2018,99923,Fair,Petrol,Manual,1,415558
+Mahindra,XUV700,2018,88036,Excellent,Petrol,Manual,1,617737
+Maruti Suzuki,Swift,2025,8212,Poor,Diesel,Manual,2,396741
+Maruti Suzuki,WagonR,2018,95316,Fair,Diesel,Automatic,1,327443
+Toyota,Innova,2019,89449,Good,Diesel,Manual,3,503112
+Mahindra,Scorpio,2025,7178,Good,Petrol,Manual,2,1099220
+Toyota,Fortuner,2012,172679,Excellent,Diesel,Manual,1,173855
+Honda,Civic,2020,65270,Fair,Petrol,Automatic,2,401975
+Maruti Suzuki,Baleno,2019,79903,Poor,Petrol,Automatic,1,268863
+Tata,Nexon,2019,79787,Good,CNG,Manual,1,289068
+Mahindra,Scorpio,2020,74052,Good,Petrol,Automatic,2,258697
+Honda,Amaze,2018,81837,Good,Petrol,Manual,1,219741
+Maruti Suzuki,Swift,2013,156084,Good,Petrol,Automatic,1,248441
+Toyota,Fortuner,2012,171240,Excellent,Petrol,Automatic,1,174667
+Toyota,Innova,2023,39779,Fair,Petrol,Automatic,1,565652
+Maruti Suzuki,Swift,2017,109149,Excellent,Diesel,Manual,3,459718
+Maruti Suzuki,Baleno,2021,67399,Excellent,Diesel,Manual,3,437660
+Honda,Civic,2020,72112,Good,Petrol,Automatic,2,510905
+Hyundai,Venue,2017,110735,Excellent,Diesel,Automatic,1,268742
+Honda,City,2012,163766,Good,Diesel,Manual,2,88786
+Mahindra,Scorpio,2014,147656,Excellent,CNG,Automatic,2,155545
+Toyota,Glanza,2015,133489,Poor,Diesel,Manual,1,190554
+Mahindra,XUV700,2019,86831,Poor,Diesel,Automatic,1,444119
+Mahindra,XUV700,2020,75312,Good,CNG,Automatic,1,407633
+Honda,City,2019,79668,Good,Petrol,Automatic,1,393399
+Mahindra,XUV700,2019,85505,Excellent,Diesel,Automatic,3,439901
+Maruti Suzuki,WagonR,2019,92725,Excellent,EV,Manual,1,498120
+Honda,Amaze,2016,123273,Fair,Diesel,Manual,1,260547
+Toyota,Innova,2019,84923,Good,Petrol,Automatic,4,513575
+Tata,Tiago,2023,32191,Good,Petrol,Manual,3,721274
+Mahindra,Scorpio,2016,121549,Good,Diesel,Manual,2,434197
+Mahindra,Scorpio,2024,24133,Poor,Diesel,Manual,1,659515
+Toyota,Innova,2022,50860,Good,Petrol,Manual,2,644264
+Maruti Suzuki,Swift,2021,57254,Good,Diesel,Manual,2,388796
+Tata,Harrier,2016,126348,Good,Petrol,Automatic,1,428897
+Toyota,Glanza,2022,47963,Good,Petrol,Automatic,1,383588
+Tata,Nexon,2018,99075,Good,Petrol,Automatic,1,425334
+Tata,Harrier,2015,127980,Poor,Petrol,Automatic,1,141949
+Tata,Tiago,2016,123730,Good,Diesel,Manual,1,429340
+Hyundai,i20,2016,123309,Fair,Diesel,Manual,1,177062
+Toyota,Fortuner,2020,74694,Good,Petrol,Automatic,1,312680
+Tata,Tiago,2024,28497,Good,Diesel,Manual,1,502350
+Mahindra,Scorpio,2024,27722,Excellent,Petrol,Automatic,1,861247
+Toyota,Fortuner,2016,115667,Good,Petrol,Manual,2,97223
+Mahindra,XUV700,2014,147228,Good,Diesel,Automatic,1,123855
+Toyota,Innova,2020,67730,Excellent,Petrol,Automatic,1,426016
+Toyota,Innova,2017,103382,Good,Diesel,Manual,1,432674
+Tata,Harrier,2025,14842,Excellent,Petrol,Automatic,1,1231469
+Honda,City,2017,108526,Fair,Diesel,Manual,3,221934
+Hyundai,Venue,2018,100080,Good,Diesel,Automatic,1,531579
+Honda,City,2024,23628,Good,Diesel,Manual,1,1050199
+Honda,Civic,2012,167085,Good,Petrol,Automatic,1,175471
+Tata,Harrier,2021,50174,Good,Diesel,Manual,1,613852
+Toyota,Innova,2012,177096,Fair,Petrol,Automatic,1,53882
+Tata,Tiago,2021,60199,Fair,Diesel,Automatic,1,666260
+Maruti Suzuki,Swift,2019,87417,Good,Diesel,Automatic,1,543013
+Mahindra,Thar,2012,161170,Excellent,Petrol,Manual,1,244450
+Honda,City,2023,32573,Fair,Petrol,Manual,2,526798
+Hyundai,Creta,2018,95242,Poor,Diesel,Automatic,2,155023
+Tata,Harrier,2024,22528,Good,Petrol,Automatic,1,866143
+Maruti Suzuki,Baleno,2017,105359,Good,EV,Manual,1,378861
+Maruti Suzuki,WagonR,2012,160517,Good,Petrol,Manual,1,150808
+Toyota,Fortuner,2022,44749,Good,Petrol,Automatic,1,638371
+Mahindra,Scorpio,2015,132573,Good,Diesel,Manual,1,219411
+Toyota,Innova,2022,43620,Good,Diesel,Automatic,3,375034
+Hyundai,i20,2022,50757,Good,Diesel,Automatic,2,587141
+Maruti Suzuki,Swift,2015,133702,Poor,Diesel,Automatic,1,202296
+Toyota,Fortuner,2017,107882,Excellent,Diesel,Automatic,1,269450
+Honda,Civic,2020,71128,Good,EV,Manual,1,620982
+Hyundai,i20,2019,89297,Excellent,CNG,Manual,1,244932
+Tata,Harrier,2019,86562,Good,Petrol,Manual,1,505756
+Toyota,Glanza,2021,58646,Good,Petrol,Automatic,1,610915
+Tata,Harrier,2019,88462,Excellent,Petrol,Automatic,1,523804
+Maruti Suzuki,Swift,2017,105898,Fair,Diesel,Automatic,1,305264
+Tata,Nexon,2023,42813,Good,Diesel,Automatic,1,546909
+Toyota,Glanza,2024,21634,Good,Petrol,Automatic,1,784388
+Toyota,Fortuner,2016,119847,Excellent,Petrol,Manual,2,439348
+Honda,Civic,2015,138797,Excellent,CNG,Manual,1,160176
+Honda,Civic,2021,58804,Fair,Diesel,Manual,3,683609
+Mahindra,XUV700,2021,52949,Good,Petrol,Automatic,1,799728
+Toyota,Innova,2017,104097,Fair,CNG,Manual,1,265656
+Toyota,Innova,2024,12391,Fair,Petrol,Manual,1,888700
+Honda,Amaze,2016,114671,Fair,Diesel,Manual,1,98843
+Tata,Harrier,2014,140452,Excellent,Petrol,Manual,2,92554
+Toyota,Glanza,2014,137707,Good,Diesel,Manual,4,79935
+Maruti Suzuki,Baleno,2012,177354,Fair,Petrol,Manual,1,158165
+Hyundai,i20,2024,25948,Good,Petrol,Automatic,1,1209958
+Maruti Suzuki,WagonR,2024,28292,Good,Diesel,Manual,1,1065729
+Maruti Suzuki,WagonR,2024,22826,Good,CNG,Manual,2,1109204
+Toyota,Innova,2019,82875,Fair,Petrol,Manual,1,407681
+Honda,Civic,2014,152127,Fair,CNG,Manual,1,122647
+Hyundai,Venue,2013,160242,Poor,Petrol,Automatic,1,67123
+Honda,Amaze,2015,120765,Poor,Diesel,Manual,1,129772
+Tata,Tiago,2025,4736,Excellent,Petrol,Automatic,1,1350742
+Maruti Suzuki,Swift,2023,29014,Good,Petrol,Manual,1,825403
+Maruti Suzuki,Baleno,2021,63522,Fair,Diesel,Manual,2,541235
+Honda,Civic,2018,99945,Good,Petrol,Manual,1,289048
+Tata,Nexon,2021,60953,Good,Petrol,Manual,2,438071
+Tata,Nexon,2019,88706,Good,CNG,Automatic,2,546133
+Maruti Suzuki,Baleno,2013,155171,Good,EV,Manual,1,154099
+Tata,Harrier,2014,138591,Good,Petrol,Manual,1,255631
+Honda,Civic,2015,135070,Good,EV,Automatic,2,287074
+Maruti Suzuki,Swift,2016,122641,Good,Petrol,Automatic,1,305974
+Toyota,Fortuner,2017,101210,Good,Diesel,Manual,2,156450
+Tata,Nexon,2017,106387,Fair,EV,Automatic,3,390831
+Tata,Nexon,2021,59934,Good,Petrol,Manual,3,767619
+Honda,Civic,2017,107047,Good,Petrol,Automatic,1,147099
+Toyota,Fortuner,2012,169934,Good,Diesel,Automatic,1,119836
+Honda,City,2014,149454,Good,Diesel,Manual,1,212286
+Tata,Harrier,2013,157838,Good,EV,Automatic,2,197802
+Mahindra,XUV700,2020,61499,Good,CNG,Automatic,1,734455
+Tata,Nexon,2023,45812,Good,Diesel,Manual,1,843114
+Mahindra,Thar,2019,84018,Fair,Petrol,Automatic,2,232375
+Mahindra,XUV700,2012,175770,Fair,Diesel,Automatic,1,75514
+Toyota,Innova,2024,28269,Good,Diesel,Automatic,1,1026429
+Mahindra,Scorpio,2017,106100,Good,CNG,Automatic,1,421870
+Tata,Tiago,2024,24887,Poor,Diesel,Manual,2,720854
+Maruti Suzuki,WagonR,2014,145443,Good,Diesel,Manual,1,52875
+Mahindra,Thar,2012,168373,Fair,CNG,Manual,1,50000
+Mahindra,XUV700,2013,152607,Poor,Petrol,Manual,1,185498
+Maruti Suzuki,WagonR,2019,83808,Good,Diesel,Manual,1,621090
+Mahindra,Thar,2015,129719,Good,Diesel,Manual,1,363068
+Toyota,Fortuner,2018,96907,Fair,Diesel,Manual,1,445113
+Toyota,Glanza,2023,35522,Excellent,Petrol,Manual,2,468923
+Hyundai,i20,2017,99118,Fair,Diesel,Automatic,2,399201
+Honda,City,2020,59282,Good,Diesel,Automatic,2,312772
+Hyundai,Venue,2018,105935,Good,Diesel,Manual,1,588394
+Honda,Amaze,2014,144471,Fair,Petrol,Automatic,3,172662
+Tata,Harrier,2017,116637,Fair,Petrol,Automatic,1,250128
+Toyota,Innova,2017,108337,Excellent,Petrol,Automatic,1,192434
+Maruti Suzuki,WagonR,2024,26225,Fair,Petrol,Automatic,1,539992
+Hyundai,Venue,2017,111350,Good,Petrol,Manual,1,243487
+Maruti Suzuki,WagonR,2024,30829,Excellent,Petrol,Automatic,1,753452
+Tata,Harrier,2022,51710,Good,Diesel,Manual,2,918469
+Hyundai,i20,2025,16994,Fair,Petrol,Manual,1,687595
+Tata,Tiago,2020,79671,Excellent,Diesel,Manual,2,788527
+Maruti Suzuki,WagonR,2022,47111,Good,Petrol,Manual,2,404432
+Maruti Suzuki,WagonR,2025,16405,Excellent,Petrol,Manual,2,740181
+Hyundai,i20,2016,127780,Good,CNG,Manual,1,100565
+Tata,Harrier,2019,80405,Good,Petrol,Automatic,2,646684
+Mahindra,Scorpio,2012,171725,Good,Petrol,Manual,2,92533
+Mahindra,XUV700,2021,58740,Good,Diesel,Manual,1,565797
+Tata,Harrier,2023,39245,Good,Petrol,Manual,1,649292
+Maruti Suzuki,WagonR,2023,33657,Poor,Petrol,Manual,1,539253
+Toyota,Innova,2020,66226,Poor,Petrol,Manual,1,487827
+Mahindra,XUV700,2014,139255,Good,CNG,Automatic,3,76816
+Maruti Suzuki,Baleno,2020,80736,Fair,CNG,Automatic,2,560692
+Honda,Amaze,2024,14896,Good,Petrol,Manual,1,608339
+Maruti Suzuki,Baleno,2016,121350,Good,Petrol,Manual,1,316438
+Honda,Civic,2017,117482,Good,Diesel,Automatic,1,231503
+Honda,Amaze,2024,25098,Excellent,Petrol,Manual,1,706988
+Tata,Harrier,2012,172435,Fair,Petrol,Automatic,2,110692
+Honda,City,2017,115573,Good,Diesel,Manual,2,198183
+Hyundai,Venue,2015,132116,Good,EV,Manual,1,300607
+Hyundai,i20,2012,165662,Excellent,CNG,Automatic,1,50000
+Toyota,Fortuner,2024,23658,Good,Diesel,Manual,1,1083081
+Toyota,Innova,2022,43743,Fair,Petrol,Manual,1,677066
+Hyundai,i20,2018,93450,Good,Petrol,Manual,2,582090
+Maruti Suzuki,Swift,2025,12172,Fair,Petrol,Manual,1,995715
+Mahindra,Scorpio,2012,161880,Good,CNG,Manual,1,92451
+Tata,Harrier,2012,171378,Good,Diesel,Manual,1,50000
+Toyota,Glanza,2023,36495,Fair,Petrol,Manual,3,456208
+Honda,Amaze,2019,76413,Excellent,Petrol,Manual,1,405410
+Toyota,Fortuner,2017,117949,Good,Diesel,Automatic,1,465206
+Toyota,Fortuner,2024,25754,Good,Petrol,Automatic,1,1107546
+Hyundai,i20,2016,119280,Fair,Diesel,Automatic,2,281860
+Mahindra,Thar,2020,73014,Good,CNG,Automatic,1,334424
+Toyota,Glanza,2022,55426,Poor,Petrol,Manual,1,354994
+Maruti Suzuki,WagonR,2021,58791,Good,Petrol,Manual,1,555086
+Mahindra,XUV700,2024,15256,Fair,Diesel,Automatic,1,926984
+Maruti Suzuki,Baleno,2014,153905,Good,Petrol,Manual,1,280743
+Honda,Civic,2018,91475,Good,Petrol,Automatic,1,370747
+Tata,Harrier,2014,139159,Excellent,Diesel,Manual,2,115086
+Hyundai,i20,2015,132206,Good,Diesel,Manual,3,134119
+Toyota,Glanza,2019,86215,Excellent,Petrol,Manual,1,409405
+Mahindra,Thar,2019,74072,Fair,Petrol,Manual,2,193870
+Mahindra,Thar,2016,116949,Fair,Petrol,Automatic,1,158550
+Honda,City,2022,48499,Fair,Petrol,Manual,1,399865
+Toyota,Fortuner,2024,28328,Good,Diesel,Manual,3,668162
+Mahindra,Scorpio,2015,136312,Fair,Petrol,Manual,1,65959
+Toyota,Glanza,2016,121702,Excellent,Petrol,Automatic,1,291871
+Mahindra,Scorpio,2021,63026,Good,CNG,Manual,1,666717
+Mahindra,XUV700,2013,161577,Good,Diesel,Manual,2,50000
+Tata,Nexon,2022,55347,Excellent,Diesel,Manual,2,1044925
+Maruti Suzuki,WagonR,2023,37477,Fair,Diesel,Automatic,1,388216
+Tata,Harrier,2022,42968,Excellent,Petrol,Automatic,1,864695
+Toyota,Fortuner,2016,118280,Good,Petrol,Manual,2,116871
+Hyundai,Creta,2020,70954,Good,Petrol,Manual,1,281675
+Mahindra,XUV700,2012,170667,Good,Diesel,Manual,2,147233
+Hyundai,i20,2023,30162,Excellent,Petrol,Manual,2,529471
+Hyundai,Creta,2023,37607,Excellent,CNG,Automatic,2,1018128
+Honda,City,2012,169868,Good,Petrol,Automatic,1,209011
+Honda,Civic,2025,17509,Good,Petrol,Automatic,3,1157475
+Honda,Civic,2025,8199,Good,Diesel,Automatic,1,539186
+Tata,Nexon,2023,37435,Good,Petrol,Manual,2,1044958
+Tata,Nexon,2020,78660,Good,Diesel,Automatic,1,463648
+Maruti Suzuki,WagonR,2022,49132,Fair,EV,Manual,1,342657
+Mahindra,XUV700,2014,141190,Good,Petrol,Automatic,2,104916
+Tata,Nexon,2014,149073,Fair,Diesel,Manual,1,91227
+Mahindra,Scorpio,2017,111397,Fair,Petrol,Manual,2,170126
+Mahindra,XUV700,2021,65483,Excellent,Petrol,Manual,1,391489
+Tata,Tiago,2014,149902,Good,Diesel,Automatic,1,181149
+Toyota,Fortuner,2015,143392,Good,Diesel,Automatic,2,221293
+Toyota,Glanza,2019,80503,Poor,Diesel,Automatic,3,413953
+Honda,Amaze,2017,113812,Good,Diesel,Manual,2,286928
+Tata,Harrier,2020,69403,Good,EV,Manual,1,448034
+Mahindra,XUV700,2025,10295,Excellent,Petrol,Manual,1,1442759
+Honda,Civic,2025,10933,Good,Diesel,Manual,2,556481
+Maruti Suzuki,Baleno,2018,100799,Good,EV,Manual,1,439950
+Honda,Amaze,2017,105990,Excellent,Diesel,Manual,2,434549
+Mahindra,Thar,2018,99651,Good,CNG,Manual,1,530299
+Hyundai,Venue,2022,52308,Good,Petrol,Manual,1,630812
+Mahindra,Thar,2012,168695,Good,Petrol,Manual,1,50000
+Toyota,Glanza,2013,161475,Fair,Petrol,Automatic,1,206970
+Hyundai,i20,2017,110167,Fair,Petrol,Manual,1,316599
+Honda,Amaze,2020,74642,Good,CNG,Manual,1,561951
+Honda,Civic,2013,162406,Good,Petrol,Manual,1,250111
+Mahindra,XUV700,2016,118676,Excellent,Petrol,Manual,1,203686
+Toyota,Fortuner,2020,65184,Good,Petrol,Manual,2,330839
+Mahindra,Scorpio,2018,93954,Fair,Diesel,Automatic,1,469429
+Tata,Tiago,2021,59907,Excellent,Petrol,Manual,1,472670
+Tata,Harrier,2023,37430,Good,Petrol,Automatic,1,763375
+Honda,Civic,2024,11507,Good,Diesel,Automatic,1,683008
+Honda,City,2018,96876,Good,Petrol,Automatic,2,279703
+Maruti Suzuki,Baleno,2023,29316,Poor,Diesel,Automatic,2,330822
+Tata,Harrier,2016,124889,Excellent,Petrol,Automatic,2,240925
+Maruti Suzuki,Swift,2015,121471,Excellent,Petrol,Automatic,1,359584
+Toyota,Innova,2024,17692,Good,Petrol,Manual,2,780424
+Maruti Suzuki,WagonR,2022,50536,Fair,Petrol,Automatic,3,646509
+Maruti Suzuki,Swift,2014,147383,Excellent,Petrol,Automatic,1,282177
+Maruti Suzuki,WagonR,2023,43222,Fair,CNG,Manual,2,403142
+Tata,Harrier,2024,29693,Excellent,Diesel,Automatic,4,423556
+Toyota,Innova,2021,69851,Poor,EV,Manual,1,446738
+Tata,Tiago,2018,99260,Good,Petrol,Automatic,1,314978
+Mahindra,XUV700,2019,84661,Fair,Petrol,Manual,2,393634
+Toyota,Glanza,2020,69274,Excellent,Diesel,Manual,1,480227
+Toyota,Innova,2023,43614,Good,Diesel,Manual,1,749434
+Maruti Suzuki,Swift,2017,106643,Excellent,Petrol,Manual,1,169708
+Maruti Suzuki,Swift,2019,80943,Good,CNG,Manual,1,641465
+Tata,Harrier,2020,77097,Fair,Diesel,Manual,1,367646
+Maruti Suzuki,Baleno,2023,28615,Fair,Petrol,Manual,1,707062
+Toyota,Innova,2022,40554,Good,Petrol,Automatic,1,781563
+Maruti Suzuki,Swift,2020,72470,Good,Petrol,Manual,1,638565
+Honda,Civic,2013,156306,Excellent,Diesel,Manual,1,200842
+Toyota,Innova,2025,12373,Good,Petrol,Manual,2,915950
+Mahindra,Thar,2021,70060,Poor,Diesel,Automatic,1,340289
+Hyundai,Venue,2016,120680,Fair,Diesel,Automatic,1,127829
+Hyundai,i20,2024,33631,Fair,Petrol,Manual,1,593321
+Honda,Civic,2017,102760,Good,Petrol,Manual,2,484314
+Mahindra,Scorpio,2020,77594,Excellent,Diesel,Automatic,1,742691
+Toyota,Glanza,2019,80281,Excellent,Diesel,Manual,1,740795
+Tata,Harrier,2013,158183,Excellent,CNG,Manual,1,207994
+Tata,Harrier,2014,142800,Good,Petrol,Manual,1,173331
+Honda,Amaze,2019,82037,Fair,Diesel,Automatic,1,223845
+Toyota,Glanza,2022,51460,Good,Petrol,Automatic,3,436159
+Mahindra,Scorpio,2020,74695,Good,Petrol,Manual,1,514515
+Honda,Civic,2015,136891,Poor,Petrol,Manual,2,223567
+Maruti Suzuki,WagonR,2013,160665,Excellent,EV,Automatic,2,50000
+Tata,Harrier,2024,22886,Good,Diesel,Manual,1,482945
+Maruti Suzuki,Swift,2012,161566,Excellent,Petrol,Manual,1,95740
+Toyota,Glanza,2017,108540,Good,Petrol,Automatic,1,328837
+Honda,City,2017,110551,Good,Petrol,Manual,1,441386
+Honda,Civic,2013,153576,Fair,Petrol,Automatic,1,50000
+Tata,Nexon,2016,118147,Good,Petrol,Automatic,2,349840
+Honda,Amaze,2022,41259,Excellent,Diesel,Automatic,1,490838
+Mahindra,Thar,2013,156637,Fair,Petrol,Automatic,3,50000
+Hyundai,Venue,2013,154884,Excellent,Petrol,Manual,2,76988
+Honda,Civic,2018,96994,Fair,Diesel,Manual,1,165811
+Hyundai,Creta,2018,96830,Fair,Petrol,Manual,4,397623
+Tata,Nexon,2016,125694,Good,EV,Manual,1,430700
+Tata,Harrier,2019,84550,Good,Petrol,Manual,1,311151
+Maruti Suzuki,WagonR,2023,26844,Fair,CNG,Manual,1,425899
+Toyota,Fortuner,2018,89857,Poor,Petrol,Automatic,2,365254
+Tata,Tiago,2014,143538,Fair,Petrol,Manual,1,85159
+Mahindra,Thar,2015,125546,Poor,CNG,Automatic,2,73229
+Mahindra,Scorpio,2013,149057,Good,Petrol,Automatic,1,98208
+Honda,Amaze,2017,99998,Fair,Diesel,Manual,1,157352
+Hyundai,Creta,2024,20603,Poor,Diesel,Automatic,2,347674
+Honda,City,2013,151878,Fair,Petrol,Automatic,1,192677
+Hyundai,Venue,2014,142097,Poor,CNG,Automatic,2,166818
+Maruti Suzuki,Swift,2024,22345,Good,Diesel,Manual,1,924960
+Mahindra,Thar,2025,9827,Poor,Diesel,Manual,3,624130
+Toyota,Glanza,2023,28421,Good,Petrol,Automatic,1,501276
+Honda,Civic,2020,66450,Excellent,Diesel,Manual,1,346422
+Toyota,Innova,2012,173735,Good,Diesel,Manual,1,175317
+Mahindra,Thar,2012,171313,Good,CNG,Manual,1,50000
+Mahindra,Thar,2024,19964,Good,Petrol,Automatic,1,1195759
+Mahindra,Scorpio,2022,47278,Good,Petrol,Automatic,1,671300
+Hyundai,Creta,2025,10270,Poor,Petrol,Manual,1,835697
+Maruti Suzuki,Swift,2023,33294,Good,Diesel,Manual,2,1038455
+Toyota,Fortuner,2015,137334,Fair,Diesel,Manual,1,167589
+Hyundai,i20,2018,102627,Excellent,Diesel,Manual,1,330795
+Hyundai,i20,2024,16965,Good,Petrol,Manual,1,943988
+Mahindra,XUV700,2012,168298,Fair,Petrol,Manual,1,50000
+Mahindra,XUV700,2021,64747,Poor,Petrol,Automatic,2,386736
+Mahindra,Scorpio,2025,19593,Fair,EV,Manual,1,900574
+Toyota,Innova,2015,135291,Excellent,Petrol,Automatic,1,216506
+Tata,Harrier,2015,134688,Excellent,Petrol,Manual,2,237107
+Tata,Nexon,2017,110140,Good,Petrol,Manual,1,484695
+Honda,Civic,2018,96246,Good,Petrol,Automatic,1,313184
+Tata,Nexon,2023,39844,Excellent,Petrol,Automatic,2,1101318
+Hyundai,i20,2014,144384,Good,Petrol,Automatic,2,190111
+Maruti Suzuki,Baleno,2019,84620,Good,Petrol,Automatic,2,315068
+Mahindra,Thar,2021,69617,Good,Petrol,Manual,1,839756
+Maruti Suzuki,Swift,2021,56126,Fair,Petrol,Manual,1,721503
+Hyundai,Creta,2012,165011,Good,Diesel,Manual,1,50000
+Maruti Suzuki,WagonR,2013,156844,Excellent,Petrol,Automatic,1,61764
+Toyota,Innova,2015,132823,Good,Diesel,Manual,1,196143
+Maruti Suzuki,Swift,2013,155791,Good,Petrol,Manual,1,165937
+Toyota,Fortuner,2025,18058,Fair,Petrol,Manual,4,979699
+Hyundai,i20,2024,16257,Fair,Petrol,Automatic,1,719123
+Tata,Harrier,2012,167139,Excellent,Petrol,Manual,1,50000
+Tata,Nexon,2014,139695,Fair,Diesel,Manual,1,50000
+Mahindra,XUV700,2024,26118,Excellent,Petrol,Automatic,1,547280
+Toyota,Innova,2016,123919,Good,Petrol,Automatic,1,215174
+Hyundai,Venue,2018,99818,Good,Petrol,Automatic,1,274855
+Hyundai,i20,2016,125636,Poor,Petrol,Manual,1,266316
+Honda,Civic,2022,51168,Good,Diesel,Manual,1,640415
+Honda,City,2023,32509,Good,Petrol,Automatic,2,473875
+Hyundai,Creta,2013,150506,Poor,Petrol,Manual,2,127083
+Tata,Harrier,2022,55102,Fair,Diesel,Manual,1,452903
+Mahindra,XUV700,2015,126970,Good,Diesel,Automatic,2,294433
+Toyota,Glanza,2020,63453,Good,Diesel,Manual,2,480773
+Mahindra,XUV700,2023,32207,Good,Diesel,Manual,3,957760
+Toyota,Fortuner,2017,103148,Excellent,Diesel,Automatic,1,472590
+Maruti Suzuki,WagonR,2018,94590,Good,EV,Manual,1,583651
+Mahindra,XUV700,2020,72492,Fair,CNG,Manual,1,398664
+Mahindra,Scorpio,2017,111955,Poor,Petrol,Manual,1,279168
+Mahindra,Scorpio,2021,62056,Fair,Diesel,Manual,3,464311
+Maruti Suzuki,Baleno,2016,117836,Excellent,Petrol,Manual,2,275010
+Maruti Suzuki,Swift,2015,135969,Good,Diesel,Manual,1,174193
+Honda,Amaze,2021,56142,Fair,Diesel,Manual,3,530837
+Toyota,Innova,2012,161612,Excellent,Diesel,Manual,1,149925
+Toyota,Glanza,2014,145978,Good,Diesel,Manual,1,306521
+Maruti Suzuki,WagonR,2021,61317,Good,CNG,Manual,3,280393
+Toyota,Fortuner,2020,63765,Good,Petrol,Automatic,1,581156
+Maruti Suzuki,WagonR,2020,75022,Good,Diesel,Manual,1,308016
+Honda,Civic,2018,88695,Good,Diesel,Automatic,3,428921
+Toyota,Glanza,2021,56757,Poor,Diesel,Manual,1,374680
+Mahindra,Scorpio,2012,170092,Poor,Petrol,Automatic,1,50000
+Maruti Suzuki,Swift,2025,10364,Good,Diesel,Manual,1,1108871
+Hyundai,Creta,2020,67786,Fair,Diesel,Manual,2,217645
+Maruti Suzuki,WagonR,2023,37930,Good,Diesel,Manual,1,972564
+Maruti Suzuki,Swift,2012,163913,Excellent,Petrol,Manual,1,215082
+Tata,Harrier,2022,51878,Excellent,Diesel,Automatic,1,892401
+Mahindra,XUV700,2023,24693,Fair,Petrol,Automatic,3,459625
+Mahindra,XUV700,2015,127489,Fair,Petrol,Automatic,1,111736
+Mahindra,Thar,2017,110063,Excellent,CNG,Automatic,1,491394
+Hyundai,Creta,2021,56987,Good,Diesel,Automatic,1,317998
+Tata,Tiago,2018,94750,Good,EV,Manual,1,484965
+Toyota,Fortuner,2016,119989,Good,Petrol,Manual,3,69724
+Mahindra,Thar,2012,172072,Excellent,Petrol,Manual,1,80526
+Hyundai,i20,2022,58928,Good,Petrol,Automatic,2,583767
+Mahindra,Thar,2016,119015,Good,Diesel,Automatic,2,386772
+Tata,Harrier,2012,165677,Excellent,Petrol,Automatic,4,94606
+Hyundai,Venue,2022,44187,Fair,Petrol,Manual,2,658471
+Honda,City,2020,77181,Good,Diesel,Automatic,1,656565
+Honda,Civic,2014,144652,Fair,Petrol,Manual,2,119736
+Tata,Nexon,2018,87457,Good,CNG,Manual,2,183158
+Maruti Suzuki,WagonR,2018,92985,Fair,Diesel,Automatic,1,397752
+Honda,City,2012,169589,Good,Petrol,Manual,1,135304
+Honda,City,2025,2517,Good,Petrol,Automatic,1,630978
+Toyota,Glanza,2013,155962,Fair,Diesel,Manual,1,158215
+Honda,Civic,2024,27855,Good,Diesel,Manual,1,1146618
+Tata,Harrier,2016,126528,Poor,Diesel,Automatic,2,69307
+Maruti Suzuki,Swift,2017,101014,Poor,Petrol,Manual,3,64019
+Hyundai,Venue,2022,54110,Good,Petrol,Manual,1,413533
+Hyundai,Venue,2012,182815,Good,Diesel,Automatic,1,50000
+Hyundai,Creta,2025,17378,Fair,Petrol,Manual,1,777230
+Honda,Civic,2021,56528,Poor,Petrol,Automatic,4,395851
+Hyundai,i20,2016,112350,Good,Diesel,Manual,1,158359
+Tata,Nexon,2016,122145,Poor,EV,Manual,2,222962
+Hyundai,Creta,2025,8416,Good,Diesel,Automatic,1,992295
+Toyota,Innova,2019,82937,Good,Diesel,Manual,2,474129
+Mahindra,Thar,2017,113894,Good,CNG,Manual,1,345662
+Toyota,Glanza,2025,11688,Good,Diesel,Automatic,2,1240453
+Hyundai,i20,2022,50454,Good,Petrol,Automatic,2,378857
+Hyundai,i20,2017,112908,Good,Diesel,Manual,2,431652
+Toyota,Innova,2015,123770,Fair,Petrol,Automatic,1,341543
+Mahindra,Thar,2025,15154,Fair,Petrol,Automatic,1,789683
+Hyundai,Venue,2019,80832,Good,CNG,Manual,2,307725
+Maruti Suzuki,Baleno,2022,47873,Poor,CNG,Manual,1,639491
+Maruti Suzuki,Baleno,2013,162379,Good,Petrol,Automatic,1,248275
+Honda,Civic,2013,155753,Poor,Diesel,Manual,1,57400
+Toyota,Innova,2018,98445,Excellent,Petrol,Automatic,1,257716
+Tata,Nexon,2015,132805,Excellent,Petrol,Manual,1,209453
+Hyundai,i20,2015,138086,Good,Diesel,Manual,1,214449
+Mahindra,Scorpio,2014,146504,Good,EV,Automatic,2,76339
+Mahindra,XUV700,2014,139607,Good,CNG,Automatic,1,190747
+Toyota,Glanza,2023,41345,Poor,CNG,Manual,2,577491
+Maruti Suzuki,Baleno,2020,68132,Good,Petrol,Manual,1,437103
+Hyundai,i20,2024,22051,Excellent,CNG,Automatic,3,1177363
+Hyundai,Creta,2024,14756,Good,CNG,Manual,1,1091571
+Honda,Civic,2025,6440,Excellent,Diesel,Automatic,4,808290
+Hyundai,i20,2025,15778,Good,Petrol,Automatic,1,744721
+Maruti Suzuki,Baleno,2013,156140,Good,Petrol,Automatic,2,51532
+Honda,Amaze,2020,72521,Good,Diesel,Automatic,1,426647
+Honda,Amaze,2021,65107,Excellent,Petrol,Automatic,1,566920
+Tata,Nexon,2014,148594,Good,Diesel,Manual,2,182872
+Hyundai,i20,2015,140175,Good,Petrol,Manual,1,353527
+Tata,Harrier,2013,162558,Good,Petrol,Automatic,2,236004
+Tata,Nexon,2014,151209,Excellent,Petrol,Manual,1,182968
+Hyundai,Creta,2024,21438,Good,Diesel,Manual,2,622189
+Hyundai,i20,2021,65480,Good,Petrol,Automatic,2,534891
+Tata,Harrier,2013,158126,Excellent,CNG,Automatic,1,136986
+Maruti Suzuki,Baleno,2013,164742,Good,Petrol,Manual,1,61096
+Toyota,Fortuner,2017,106046,Good,Petrol,Automatic,2,476088
+Hyundai,i20,2024,17399,Good,Petrol,Manual,2,1154911
+Hyundai,Creta,2014,143143,Good,Petrol,Automatic,2,93325
+Maruti Suzuki,WagonR,2014,135144,Poor,EV,Manual,1,224898
+Mahindra,Scorpio,2024,20790,Fair,Petrol,Manual,1,1038579
+Tata,Harrier,2015,133989,Excellent,Petrol,Automatic,1,110165
+Tata,Harrier,2019,89083,Excellent,Diesel,Automatic,1,321686
+Toyota,Innova,2012,169557,Fair,Diesel,Manual,1,160308
+Tata,Harrier,2018,91571,Fair,Petrol,Automatic,3,139030
+Mahindra,Scorpio,2023,33250,Good,EV,Manual,3,485833
+Tata,Nexon,2013,159049,Good,Diesel,Automatic,1,270579
+Tata,Tiago,2020,72188,Poor,Diesel,Automatic,1,358642
+Honda,Civic,2024,22632,Excellent,Diesel,Manual,2,891928
+Maruti Suzuki,WagonR,2012,173659,Good,Diesel,Manual,2,132487
+Hyundai,Creta,2018,96574,Good,Diesel,Automatic,3,340829
+Toyota,Innova,2019,94293,Fair,Petrol,Manual,1,573293
+Toyota,Glanza,2023,37269,Excellent,Diesel,Manual,2,693446
+Hyundai,Venue,2015,130631,Good,Diesel,Automatic,1,210630
+Honda,Civic,2014,141556,Excellent,Diesel,Automatic,1,213012
+Maruti Suzuki,Swift,2012,156929,Good,Diesel,Manual,2,50000
+Hyundai,Venue,2025,9965,Fair,Diesel,Manual,1,800823
+Maruti Suzuki,WagonR,2022,49025,Good,Diesel,Automatic,2,398775
+Hyundai,i20,2024,28002,Good,Petrol,Automatic,2,657521
+Toyota,Glanza,2012,162012,Good,Petrol,Manual,1,168283
+Maruti Suzuki,Swift,2024,30026,Good,Petrol,Manual,2,1148595
+Honda,Amaze,2024,22224,Fair,Petrol,Automatic,1,984531
+Hyundai,i20,2025,14074,Good,Petrol,Manual,3,1276250
+Maruti Suzuki,WagonR,2015,123460,Fair,Diesel,Automatic,1,259536
+Tata,Harrier,2016,121662,Excellent,Petrol,Automatic,2,323397
+Toyota,Glanza,2014,141657,Good,Diesel,Manual,1,50000
+Mahindra,XUV700,2013,152206,Excellent,Diesel,Manual,1,313137
+Honda,Civic,2016,118259,Excellent,Petrol,Automatic,1,389313
+Tata,Nexon,2018,97103,Excellent,Petrol,Manual,2,514934
+Tata,Harrier,2016,117621,Good,Petrol,Manual,1,256492
+Tata,Tiago,2016,115869,Good,Petrol,Manual,1,244520
+Hyundai,Creta,2017,98774,Fair,Diesel,Manual,1,262487
+Toyota,Innova,2025,15927,Good,Petrol,Manual,1,613013
+Toyota,Fortuner,2019,84857,Excellent,Petrol,Automatic,1,280939
+Mahindra,Scorpio,2018,97954,Fair,Diesel,Manual,2,473462
+Tata,Harrier,2025,9152,Good,Petrol,Manual,1,1174451
+Maruti Suzuki,Baleno,2025,11379,Good,Diesel,Manual,2,803128
+Mahindra,Scorpio,2025,9538,Excellent,EV,Manual,1,1047114
+Toyota,Innova,2014,143343,Good,Petrol,Automatic,1,144394
+Tata,Tiago,2018,90416,Good,Diesel,Manual,1,261116
+Honda,Amaze,2020,75254,Fair,Petrol,Manual,1,374040
+Hyundai,Venue,2015,142725,Good,Diesel,Manual,1,343015
+Tata,Nexon,2020,76473,Good,CNG,Manual,2,410418
+Mahindra,Thar,2022,50936,Excellent,Diesel,Manual,2,539804
+Mahindra,Thar,2017,106971,Excellent,Diesel,Manual,2,440112
+Maruti Suzuki,Baleno,2019,79737,Good,Diesel,Automatic,2,676202
+Hyundai,i20,2014,144364,Good,Petrol,Automatic,1,276067
+Tata,Tiago,2012,169176,Good,Petrol,Manual,2,160202
+Maruti Suzuki,WagonR,2025,5967,Good,Petrol,Manual,3,1077670
+Honda,Amaze,2016,121249,Fair,Petrol,Manual,1,225309
+Maruti Suzuki,Swift,2020,69192,Good,Petrol,Manual,1,647868
+Toyota,Glanza,2016,124040,Excellent,Petrol,Manual,1,208533
+Honda,Civic,2017,103759,Fair,Petrol,Manual,1,460481
+Maruti Suzuki,Baleno,2024,22561,Good,EV,Automatic,1,632787
+Maruti Suzuki,Swift,2013,163454,Good,Petrol,Manual,1,50000
+Maruti Suzuki,Baleno,2023,29927,Good,Diesel,Manual,2,794610
+Honda,Amaze,2022,50281,Excellent,Petrol,Automatic,2,982285
+Toyota,Glanza,2025,7631,Good,Petrol,Manual,2,1080858
+Hyundai,Creta,2025,16813,Fair,Petrol,Automatic,1,833632
+Toyota,Innova,2013,154371,Good,Diesel,Automatic,1,103721
+Mahindra,Scorpio,2012,171702,Excellent,Petrol,Automatic,2,140531
+Toyota,Fortuner,2023,32535,Good,Petrol,Manual,3,889302
+Toyota,Fortuner,2015,131727,Fair,CNG,Automatic,1,280643
+Tata,Nexon,2018,87332,Excellent,Diesel,Manual,1,471266
+Tata,Harrier,2019,85107,Good,Petrol,Automatic,1,265808
+Toyota,Fortuner,2018,89040,Excellent,Petrol,Manual,2,635244
+Hyundai,Venue,2015,140520,Fair,CNG,Manual,1,321184
+Hyundai,Venue,2017,109120,Good,Diesel,Automatic,1,442091
+Tata,Tiago,2013,163055,Good,Petrol,Automatic,1,69555
+Mahindra,Scorpio,2018,93441,Excellent,Diesel,Manual,1,416753
+Mahindra,Scorpio,2020,68142,Excellent,Diesel,Automatic,2,835702
+Tata,Nexon,2023,29615,Good,Petrol,Manual,3,506569
+Maruti Suzuki,Baleno,2018,100742,Excellent,CNG,Automatic,2,260158
+Maruti Suzuki,WagonR,2013,152538,Fair,Petrol,Manual,4,50000
+Tata,Tiago,2017,104704,Good,CNG,Manual,1,276037
+Hyundai,Venue,2020,75990,Fair,Petrol,Automatic,1,583164
+Honda,City,2023,30116,Good,EV,Automatic,2,559436
+Hyundai,Venue,2012,167110,Good,Petrol,Manual,1,116223
+Toyota,Innova,2015,122025,Poor,Petrol,Manual,1,178643
+Honda,Amaze,2015,133639,Good,Diesel,Manual,1,122855
+Maruti Suzuki,Swift,2025,7971,Fair,CNG,Manual,1,856750
+Maruti Suzuki,WagonR,2012,153579,Good,Diesel,Manual,1,81152
+Toyota,Glanza,2014,144421,Fair,Diesel,Manual,1,94721
+Honda,Civic,2012,177499,Poor,Petrol,Manual,1,50000
+Mahindra,XUV700,2015,121946,Poor,Petrol,Automatic,2,86736
+Toyota,Innova,2017,118333,Good,Petrol,Manual,1,339953
+Toyota,Fortuner,2014,145931,Good,Diesel,Manual,2,216277
+Hyundai,Creta,2018,102470,Good,CNG,Automatic,1,373653
+Honda,City,2021,58739,Good,Diesel,Automatic,1,830806
+Tata,Tiago,2024,28096,Excellent,CNG,Manual,1,713884
+Hyundai,Venue,2021,62119,Excellent,Petrol,Automatic,1,569252
+Tata,Harrier,2016,122306,Fair,Petrol,Automatic,1,126044
+Maruti Suzuki,Baleno,2015,133444,Good,Petrol,Manual,2,250389
+Toyota,Fortuner,2013,166572,Good,CNG,Manual,2,50000
+Hyundai,i20,2022,49875,Good,Diesel,Automatic,1,539594
+Hyundai,Creta,2014,150232,Good,Petrol,Manual,1,96780
+Toyota,Fortuner,2025,4006,Fair,CNG,Manual,2,1069332
+Mahindra,Thar,2020,64750,Excellent,Petrol,Manual,2,410399
+Honda,City,2014,142421,Excellent,Diesel,Manual,1,69869
+Toyota,Innova,2024,16449,Poor,Petrol,Manual,1,775926
+Hyundai,i20,2022,46897,Good,Petrol,Automatic,2,737591
+Honda,Amaze,2012,167141,Fair,EV,Automatic,1,90894
+Mahindra,Thar,2022,52965,Fair,Diesel,Automatic,1,453844
+Tata,Harrier,2016,124559,Poor,EV,Manual,2,122761
+Honda,Amaze,2017,104655,Good,Diesel,Manual,1,270677
+Hyundai,Creta,2018,94625,Good,Petrol,Automatic,2,566339
+Mahindra,XUV700,2012,156993,Good,Diesel,Manual,1,66847
+Maruti Suzuki,WagonR,2018,92857,Good,Petrol,Manual,1,388698
+Tata,Tiago,2012,166536,Fair,Petrol,Manual,1,147907
+Toyota,Glanza,2012,173257,Good,Petrol,Manual,3,60172
+Toyota,Glanza,2023,38846,Good,EV,Automatic,1,972241
+Hyundai,Creta,2023,34338,Good,CNG,Manual,1,491576
+Tata,Nexon,2022,53219,Poor,CNG,Manual,1,266880
+Maruti Suzuki,Baleno,2014,141519,Good,Petrol,Automatic,1,156484
+Tata,Nexon,2014,148402,Excellent,Petrol,Automatic,1,341530
+Hyundai,Creta,2020,62536,Good,Petrol,Manual,3,482771
+Honda,Civic,2016,121557,Good,Petrol,Manual,1,167815
+Toyota,Fortuner,2023,36333,Fair,Petrol,Automatic,1,847064
+Tata,Harrier,2022,44022,Good,CNG,Automatic,1,677954
+Toyota,Glanza,2021,60932,Good,Petrol,Automatic,2,644704
+Tata,Tiago,2023,34810,Excellent,Petrol,Automatic,2,793008
+Honda,City,2022,49042,Good,Diesel,Automatic,1,424091
+Toyota,Glanza,2016,122998,Fair,CNG,Manual,2,179113
+Maruti Suzuki,Swift,2021,56856,Good,Petrol,Automatic,1,499723
+Honda,Amaze,2021,58612,Fair,Petrol,Manual,1,269624
+Maruti Suzuki,Swift,2019,82133,Fair,Petrol,Automatic,1,373602
+Tata,Nexon,2023,33499,Fair,Diesel,Manual,1,576344
+Maruti Suzuki,WagonR,2017,110643,Good,Petrol,Manual,2,253506
+Toyota,Glanza,2018,95415,Excellent,Petrol,Manual,2,578699
+Mahindra,Scorpio,2024,27515,Fair,Petrol,Manual,1,997651
+Toyota,Innova,2013,158666,Good,CNG,Manual,2,73319
+Honda,City,2012,166864,Poor,Diesel,Automatic,3,50000
+Maruti Suzuki,WagonR,2020,71291,Excellent,Diesel,Automatic,1,512136
+Tata,Tiago,2016,121496,Good,Petrol,Manual,2,333543
+Tata,Nexon,2020,68608,Poor,Petrol,Automatic,1,429410
+Hyundai,Venue,2014,146307,Good,Petrol,Automatic,1,78250
+Maruti Suzuki,Baleno,2015,138504,Good,Diesel,Manual,2,119382
+Mahindra,Thar,2015,135003,Good,Petrol,Automatic,1,296958
+Maruti Suzuki,Baleno,2012,160260,Excellent,Petrol,Automatic,1,112276
+Maruti Suzuki,Baleno,2025,13049,Good,CNG,Automatic,3,901751
+Mahindra,XUV700,2024,22681,Excellent,Diesel,Manual,1,650971
+Tata,Tiago,2012,167126,Good,Petrol,Manual,1,50000
+Honda,Civic,2022,48126,Good,Petrol,Automatic,1,839742
+Maruti Suzuki,Swift,2023,30478,Fair,Diesel,Manual,3,497038
+Toyota,Glanza,2021,54155,Excellent,Petrol,Manual,2,654101
+Honda,Civic,2023,38093,Good,Petrol,Manual,3,908504
+Maruti Suzuki,WagonR,2021,61102,Fair,Petrol,Automatic,1,649574
+Tata,Harrier,2021,56117,Good,Petrol,Automatic,1,583505
+Toyota,Fortuner,2018,95837,Fair,Petrol,Automatic,1,522716
+Maruti Suzuki,Swift,2021,56297,Poor,Diesel,Automatic,1,372448
+Maruti Suzuki,WagonR,2012,172324,Good,Petrol,Automatic,1,98174
+Toyota,Glanza,2017,111802,Fair,Petrol,Automatic,2,334304
+Tata,Nexon,2019,75285,Excellent,Diesel,Manual,3,623789
+Tata,Tiago,2016,118045,Good,EV,Automatic,1,290796
+Maruti Suzuki,Swift,2024,25210,Good,Petrol,Manual,1,604536
+Maruti Suzuki,Swift,2017,113899,Good,Diesel,Manual,2,322258
+Maruti Suzuki,Swift,2014,154350,Good,Petrol,Automatic,2,262620
+Toyota,Fortuner,2012,165179,Good,Diesel,Manual,1,50000
+Toyota,Fortuner,2020,64529,Good,Diesel,Automatic,3,696495
+Maruti Suzuki,WagonR,2025,19661,Poor,Petrol,Automatic,1,646340
+Hyundai,Venue,2012,156473,Good,Petrol,Manual,1,108089
+Tata,Harrier,2018,98509,Poor,Diesel,Manual,1,314658
+Honda,Amaze,2025,8682,Good,CNG,Manual,2,1211352
+Maruti Suzuki,WagonR,2013,156947,Good,Petrol,Automatic,4,173064
+Maruti Suzuki,WagonR,2022,51168,Excellent,Diesel,Manual,2,417076
+Tata,Harrier,2015,120958,Good,EV,Automatic,1,226401
+Hyundai,i20,2025,10847,Good,Diesel,Automatic,2,547533
+Honda,Civic,2023,29771,Good,Diesel,Manual,3,944752
+Honda,Amaze,2020,74612,Excellent,Diesel,Manual,2,635321
+Tata,Nexon,2013,151486,Good,Petrol,Automatic,1,266427
+Tata,Tiago,2020,73695,Good,Petrol,Manual,1,670727
+Tata,Tiago,2015,132536,Good,CNG,Manual,1,230184
+Honda,Civic,2025,10405,Fair,Diesel,Automatic,1,524534
+Maruti Suzuki,WagonR,2024,30447,Good,Petrol,Manual,1,932644
+Honda,Civic,2014,144177,Good,Diesel,Manual,1,338899
+Maruti Suzuki,WagonR,2021,62775,Fair,Petrol,Manual,2,428959
+Hyundai,i20,2019,79851,Good,Petrol,Manual,1,661741
+Hyundai,Creta,2023,32721,Good,Petrol,Manual,1,593415
+Maruti Suzuki,WagonR,2024,15453,Good,Diesel,Automatic,1,950160
+Maruti Suzuki,Baleno,2022,45015,Good,Petrol,Automatic,1,542063
+Tata,Tiago,2012,159627,Fair,Diesel,Manual,1,136563
+Toyota,Fortuner,2025,5861,Good,EV,Manual,1,891283
+Honda,City,2016,117043,Good,Diesel,Automatic,1,177803
+Hyundai,Venue,2016,122657,Excellent,Diesel,Manual,2,99026
+Hyundai,Venue,2013,150586,Good,Petrol,Manual,2,217434
+Tata,Nexon,2014,140250,Excellent,Diesel,Manual,1,261997
+Toyota,Glanza,2018,91365,Good,Petrol,Automatic,1,422353
+Maruti Suzuki,Baleno,2014,143841,Excellent,Petrol,Automatic,3,80698
+Toyota,Innova,2017,118189,Good,CNG,Manual,1,283090
+Maruti Suzuki,WagonR,2014,136144,Fair,Petrol,Automatic,1,141696
+Honda,Amaze,2019,89407,Excellent,CNG,Manual,1,309872
+Mahindra,Scorpio,2018,91140,Fair,Diesel,Automatic,2,482917
+Toyota,Innova,2024,28200,Excellent,Petrol,Manual,2,899771
+Maruti Suzuki,Swift,2019,84857,Poor,Petrol,Automatic,1,357292
+Toyota,Fortuner,2012,155155,Poor,Diesel,Automatic,1,50000
+Hyundai,Creta,2015,140091,Fair,Petrol,Automatic,2,299724
+Hyundai,Creta,2024,25605,Good,Diesel,Manual,2,637104
+Honda,Civic,2020,72005,Fair,Diesel,Automatic,1,407513
+Maruti Suzuki,Swift,2020,64277,Fair,Diesel,Manual,2,639811
+Maruti Suzuki,Swift,2017,108711,Excellent,Diesel,Manual,2,356407
+Honda,City,2020,75030,Excellent,Diesel,Manual,2,682604
+Tata,Nexon,2018,96012,Fair,CNG,Manual,2,141312
+Tata,Harrier,2012,177045,Fair,Petrol,Manual,1,124040
+Tata,Nexon,2014,144471,Good,Petrol,Automatic,1,56261
+Toyota,Innova,2018,90818,Excellent,CNG,Automatic,2,565600
+Tata,Harrier,2020,67510,Excellent,Diesel,Manual,3,720598
+Toyota,Innova,2018,101394,Good,Petrol,Automatic,2,352225
+Mahindra,Thar,2023,41497,Good,Petrol,Automatic,1,858403
+Mahindra,Thar,2020,71056,Good,Petrol,Manual,1,545353
+Toyota,Glanza,2016,118411,Good,Diesel,Manual,1,271321
+Maruti Suzuki,Baleno,2018,96582,Good,Petrol,Automatic,1,267403
+Maruti Suzuki,Baleno,2019,90532,Fair,Petrol,Manual,2,220267
+Toyota,Glanza,2018,97451,Good,Diesel,Manual,1,300529
+Honda,Amaze,2021,58184,Fair,Diesel,Automatic,1,521720
+Hyundai,Creta,2012,172272,Poor,Petrol,Manual,3,50000
+Tata,Tiago,2019,83972,Good,Petrol,Automatic,2,466646
+Mahindra,Thar,2014,152576,Fair,Diesel,Manual,1,242581
+Mahindra,Thar,2015,129202,Excellent,Diesel,Automatic,2,171638
+Toyota,Fortuner,2014,145477,Excellent,Petrol,Manual,1,130553
+Hyundai,Venue,2016,122203,Excellent,Diesel,Manual,1,182430
+Toyota,Innova,2013,151989,Excellent,Petrol,Manual,3,110559
+Toyota,Glanza,2019,76157,Fair,Diesel,Manual,2,408857
+Mahindra,Thar,2019,78315,Fair,Petrol,Manual,1,264327
+Mahindra,Thar,2013,162584,Fair,Diesel,Manual,2,201131
+Hyundai,Creta,2013,154867,Excellent,Diesel,Manual,1,226087
+Maruti Suzuki,WagonR,2012,175363,Fair,Diesel,Manual,1,157415
+Honda,City,2021,60711,Good,Diesel,Automatic,2,534415
+Hyundai,Creta,2017,97304,Poor,Petrol,Manual,1,157112
+Mahindra,XUV700,2014,143270,Poor,Petrol,Manual,2,140246
+Toyota,Innova,2019,93845,Good,Petrol,Automatic,1,454321
+Tata,Tiago,2021,57336,Good,Petrol,Manual,1,448731
+Honda,Civic,2023,43486,Excellent,Diesel,Automatic,1,990657
+Toyota,Innova,2014,150074,Fair,CNG,Manual,1,50000
+Mahindra,XUV700,2015,132163,Good,Petrol,Automatic,2,196813
+Maruti Suzuki,Baleno,2014,141314,Good,Petrol,Manual,2,197537
+Tata,Harrier,2013,161414,Fair,Petrol,Manual,1,95031
+Honda,City,2022,42618,Excellent,Petrol,Manual,1,841645
+Toyota,Fortuner,2013,149681,Excellent,Diesel,Manual,3,222697
+Hyundai,Venue,2025,5147,Excellent,Petrol,Manual,1,973930
+Hyundai,Venue,2021,64919,Excellent,Diesel,Manual,1,538635
+Toyota,Innova,2020,72629,Good,Petrol,Automatic,1,738456
+Toyota,Innova,2023,38603,Good,Petrol,Manual,2,413749
+Tata,Nexon,2019,82360,Good,Diesel,Manual,2,516744
+Tata,Tiago,2012,172828,Fair,Petrol,Manual,2,50000
+Mahindra,Scorpio,2017,115958,Excellent,CNG,Manual,2,494957
+Maruti Suzuki,Baleno,2015,134526,Good,Petrol,Manual,1,262654
+Toyota,Glanza,2019,91031,Good,Diesel,Automatic,1,397266
+Mahindra,Thar,2025,5863,Excellent,Petrol,Automatic,2,1311803
+Hyundai,Venue,2023,42503,Poor,Petrol,Automatic,1,382687
+Mahindra,Thar,2023,35611,Fair,EV,Automatic,1,885228
+Tata,Tiago,2024,21719,Good,Petrol,Manual,1,1082635
+Honda,City,2014,138799,Good,Diesel,Automatic,1,285617
+Honda,Civic,2020,75494,Good,CNG,Automatic,1,769145
+Tata,Tiago,2015,137157,Fair,Petrol,Manual,4,50000
+Mahindra,Thar,2013,150785,Good,Petrol,Automatic,1,188699
+Tata,Harrier,2018,100727,Good,Diesel,Manual,1,322703
+Hyundai,i20,2020,68890,Good,Petrol,Automatic,1,546430
+Toyota,Glanza,2023,29586,Excellent,Diesel,Manual,1,1115061
+Hyundai,Venue,2023,39585,Excellent,Petrol,Automatic,2,497905
+Maruti Suzuki,Baleno,2016,119281,Poor,Diesel,Automatic,1,148317
+Mahindra,Thar,2020,71174,Good,CNG,Manual,1,476238
+Honda,City,2019,83933,Good,Petrol,Manual,1,421943
+Hyundai,Creta,2024,22286,Good,Petrol,Manual,2,847115
+Hyundai,i20,2020,67895,Good,Petrol,Automatic,2,742711
+Toyota,Fortuner,2015,129865,Good,Petrol,Manual,1,115550
+Honda,Civic,2015,139498,Excellent,Petrol,Automatic,2,175166
+Tata,Tiago,2021,57257,Excellent,Petrol,Automatic,2,631955
+Toyota,Glanza,2021,55148,Good,Diesel,Manual,1,624476
+Hyundai,Venue,2016,128637,Good,EV,Manual,1,132374
+Tata,Harrier,2020,70171,Fair,Diesel,Automatic,1,533653
+Honda,Civic,2015,134521,Good,Diesel,Manual,2,175152
+Honda,Civic,2021,62467,Excellent,Petrol,Automatic,1,501013
+Tata,Harrier,2024,23310,Excellent,CNG,Manual,2,902851
+Hyundai,Creta,2022,51673,Good,Petrol,Automatic,3,356126
+Toyota,Glanza,2014,153069,Excellent,EV,Automatic,2,60059
+Tata,Tiago,2018,89083,Good,Diesel,Manual,1,190897
+Maruti Suzuki,WagonR,2014,148508,Good,Petrol,Automatic,1,91877
+Honda,Amaze,2023,40513,Good,Petrol,Manual,1,629360
+Honda,City,2019,82366,Good,Diesel,Manual,3,216945
+Hyundai,i20,2021,57179,Excellent,Petrol,Manual,1,830870
+Honda,City,2023,34147,Fair,Petrol,Manual,2,903888
+Honda,Amaze,2024,22779,Excellent,CNG,Manual,1,820508
+Tata,Tiago,2017,109473,Good,Petrol,Manual,1,269563
+Toyota,Innova,2022,53925,Fair,Petrol,Automatic,1,660572
+Tata,Tiago,2014,137648,Fair,CNG,Automatic,1,199306
+Maruti Suzuki,Baleno,2019,82856,Good,Petrol,Manual,1,658423
+Mahindra,Scorpio,2021,59013,Good,Petrol,Automatic,2,481690
+Toyota,Glanza,2018,90940,Excellent,Petrol,Automatic,1,314047
+Tata,Tiago,2017,110244,Good,Diesel,Manual,1,167591
+Honda,Amaze,2015,129754,Excellent,Diesel,Automatic,2,284264
+Hyundai,Creta,2020,73011,Excellent,Petrol,Manual,1,363392
+Maruti Suzuki,Baleno,2017,110498,Poor,Diesel,Automatic,3,294687
+Tata,Tiago,2020,78299,Fair,CNG,Manual,1,531989
+Maruti Suzuki,Baleno,2016,119459,Fair,Diesel,Automatic,1,335220
+Mahindra,Scorpio,2012,173560,Good,Diesel,Automatic,1,50000
+Hyundai,i20,2012,171644,Excellent,Petrol,Automatic,2,50000
+Maruti Suzuki,Baleno,2012,170962,Excellent,Petrol,Manual,1,50000
+Maruti Suzuki,Swift,2019,82174,Good,Diesel,Automatic,1,605289
+Toyota,Glanza,2017,105483,Excellent,Petrol,Automatic,2,363980
+Hyundai,Creta,2013,153478,Good,Petrol,Manual,1,192902
+Mahindra,Thar,2025,8960,Good,Diesel,Automatic,1,925598
+Toyota,Glanza,2024,28590,Fair,Diesel,Manual,2,985154
+Honda,Amaze,2021,63435,Fair,Diesel,Manual,2,654322
+Honda,City,2013,144107,Good,EV,Manual,1,54008
+Mahindra,Scorpio,2023,36963,Good,Petrol,Automatic,1,741512
+Mahindra,XUV700,2017,106033,Excellent,EV,Manual,1,245352
+Tata,Nexon,2019,80187,Good,Petrol,Manual,1,387278
+Tata,Tiago,2025,3656,Good,Petrol,Automatic,1,743867
+Hyundai,Venue,2019,85492,Good,Diesel,Automatic,3,516700
+Hyundai,Venue,2019,83443,Poor,CNG,Manual,2,437576
+Toyota,Innova,2018,97495,Good,Diesel,Automatic,1,187772
+Mahindra,Thar,2019,88708,Good,Diesel,Manual,1,452535
+Mahindra,Thar,2019,89882,Poor,Diesel,Automatic,1,300730
+Toyota,Fortuner,2023,33974,Good,Petrol,Manual,1,1018087
+Tata,Tiago,2017,111503,Poor,Diesel,Automatic,2,99455
+Mahindra,XUV700,2019,79641,Good,Diesel,Automatic,1,348492
+Maruti Suzuki,Swift,2013,153061,Good,Petrol,Manual,1,230537
+Honda,Amaze,2018,93932,Good,Diesel,Automatic,2,554275
+Honda,Civic,2012,168161,Good,Diesel,Manual,1,50000
+Honda,Amaze,2023,41195,Excellent,CNG,Manual,1,1069967
+Toyota,Glanza,2023,38650,Excellent,EV,Automatic,1,504556
+Toyota,Fortuner,2023,26136,Good,Petrol,Automatic,1,1093880
+Maruti Suzuki,WagonR,2022,52334,Good,CNG,Automatic,1,530880
+Maruti Suzuki,Baleno,2025,6993,Fair,Petrol,Automatic,1,700662
+Mahindra,XUV700,2013,151389,Fair,CNG,Manual,1,119672
+Hyundai,i20,2020,82321,Fair,Petrol,Manual,3,496681
+Tata,Tiago,2016,120790,Excellent,Petrol,Manual,1,314480
+Hyundai,Venue,2025,11165,Good,Diesel,Manual,2,1228214
+Honda,City,2012,162054,Good,CNG,Manual,4,85503
+Honda,Civic,2025,12053,Fair,Petrol,Automatic,1,1057968
+Tata,Harrier,2021,53319,Good,Petrol,Manual,1,787801
+Tata,Tiago,2021,65057,Good,Petrol,Manual,1,626241
+Maruti Suzuki,Baleno,2019,84063,Good,Petrol,Automatic,1,316486
+Tata,Harrier,2023,30961,Good,Petrol,Automatic,1,1079757
+Hyundai,Venue,2014,143994,Good,Petrol,Manual,1,207056
+Toyota,Innova,2018,99746,Poor,Petrol,Manual,1,131081
+Hyundai,Venue,2023,33012,Excellent,Petrol,Automatic,4,1111728
+Maruti Suzuki,Baleno,2013,147391,Excellent,Petrol,Manual,1,218785
+Mahindra,XUV700,2022,51991,Good,Petrol,Manual,1,934467
+Mahindra,Scorpio,2012,162397,Good,Diesel,Automatic,1,50000
+Honda,Amaze,2023,32225,Good,Diesel,Manual,2,973711
+Maruti Suzuki,Swift,2023,35942,Good,Diesel,Manual,1,1013385
+Mahindra,Scorpio,2020,77153,Good,Petrol,Automatic,1,340314
+Hyundai,i20,2018,82101,Excellent,Petrol,Manual,1,353144
+Hyundai,i20,2014,138833,Excellent,Diesel,Automatic,1,361654
+Tata,Harrier,2023,32879,Excellent,EV,Automatic,1,710626
+Maruti Suzuki,Baleno,2018,92189,Excellent,Diesel,Manual,2,249547
+Toyota,Innova,2012,172452,Fair,Petrol,Manual,1,126609
+Hyundai,i20,2020,72415,Good,Diesel,Manual,2,403971
+Honda,City,2024,18557,Good,Diesel,Manual,2,1125063
+Maruti Suzuki,Baleno,2021,72802,Fair,Petrol,Manual,1,501482
+Maruti Suzuki,Baleno,2024,23778,Good,Petrol,Manual,2,656288
+Toyota,Innova,2020,79978,Excellent,Petrol,Manual,1,773111
+Toyota,Innova,2012,171389,Good,Diesel,Manual,1,224966
+Toyota,Fortuner,2021,68231,Good,Petrol,Manual,2,609709
+Tata,Tiago,2017,111454,Excellent,Diesel,Manual,3,105470
+Mahindra,Thar,2013,156089,Good,Petrol,Manual,1,54348
+Hyundai,Creta,2025,9107,Poor,Petrol,Manual,2,588161
+Toyota,Glanza,2016,119612,Excellent,Diesel,Automatic,1,446356
+Toyota,Fortuner,2023,43801,Good,Petrol,Automatic,1,870052
+Honda,Civic,2022,38241,Good,Petrol,Automatic,3,421647
+Toyota,Innova,2024,21501,Good,Diesel,Automatic,2,972566
+Mahindra,XUV700,2013,155693,Excellent,Diesel,Manual,1,159334
+Toyota,Innova,2018,85932,Excellent,Petrol,Manual,1,469365
+Toyota,Fortuner,2024,25566,Good,Diesel,Automatic,2,1027086
+Toyota,Fortuner,2021,67463,Excellent,CNG,Automatic,2,620170
+Tata,Nexon,2021,63299,Good,Petrol,Manual,4,446126
+Mahindra,Scorpio,2013,155171,Excellent,Diesel,Manual,2,84475
+Mahindra,Scorpio,2015,130892,Good,CNG,Automatic,1,361415
+Toyota,Innova,2024,26303,Good,Diesel,Manual,1,726362
+Mahindra,XUV700,2021,52388,Good,Petrol,Manual,2,402800
+Tata,Nexon,2022,48149,Good,Diesel,Automatic,1,404898
+Maruti Suzuki,Swift,2012,166710,Good,Petrol,Manual,2,110429
+Honda,Civic,2019,89882,Good,Diesel,Manual,1,550923
+Toyota,Glanza,2023,32141,Good,Diesel,Manual,2,859766
+Mahindra,Scorpio,2023,36690,Excellent,EV,Manual,3,1084027
+Mahindra,Thar,2012,158569,Good,Diesel,Manual,1,132768
+Tata,Nexon,2018,106191,Poor,Petrol,Automatic,2,261351
+Tata,Tiago,2021,57333,Good,CNG,Manual,1,614815
+Maruti Suzuki,Baleno,2015,129508,Excellent,Petrol,Manual,1,286262
+Honda,Amaze,2024,29816,Good,Diesel,Automatic,2,1178487
+Toyota,Innova,2017,98934,Good,Petrol,Manual,1,552264
+Hyundai,Venue,2022,39784,Excellent,Petrol,Manual,3,940290
+Toyota,Glanza,2025,15341,Poor,Diesel,Automatic,2,420673
+Toyota,Fortuner,2017,99573,Good,Petrol,Manual,2,424383
+Honda,Civic,2017,112903,Fair,Diesel,Manual,3,305744
+Toyota,Innova,2013,158336,Fair,Petrol,Automatic,2,179581
+Mahindra,Scorpio,2016,118084,Excellent,Diesel,Automatic,1,299319
+Maruti Suzuki,WagonR,2018,95501,Good,Diesel,Manual,1,235351
+Toyota,Fortuner,2019,85572,Good,Diesel,Automatic,1,480473
+Tata,Nexon,2022,46205,Good,Diesel,Automatic,3,849011
+Hyundai,i20,2025,16973,Poor,CNG,Automatic,1,712555
+Mahindra,Thar,2012,167059,Good,Diesel,Automatic,1,124786
+Tata,Harrier,2018,94931,Good,Petrol,Manual,3,347044
+Toyota,Glanza,2019,73895,Good,Petrol,Manual,1,496149
+Mahindra,XUV700,2021,62435,Good,Diesel,Manual,1,448472
+Hyundai,i20,2017,113503,Good,Diesel,Manual,3,405497
+Maruti Suzuki,WagonR,2022,43580,Good,Petrol,Manual,2,730550
+Mahindra,Scorpio,2016,118180,Good,Diesel,Manual,1,263935
+Maruti Suzuki,Baleno,2021,65951,Fair,Diesel,Manual,3,608313
+Mahindra,Scorpio,2015,137187,Fair,Petrol,Manual,2,181368
+Tata,Harrier,2012,172939,Excellent,CNG,Manual,1,50000
+Tata,Harrier,2017,106862,Fair,Diesel,Automatic,3,91397
+Tata,Tiago,2022,50167,Poor,Diesel,Manual,1,475869
+Maruti Suzuki,Swift,2019,73972,Fair,Petrol,Manual,1,382581
+Tata,Nexon,2020,66726,Poor,Petrol,Automatic,1,183306
+Tata,Tiago,2016,119663,Good,Petrol,Automatic,1,154733
+Toyota,Fortuner,2023,32990,Good,Diesel,Manual,2,994482
+Honda,Civic,2025,7954,Good,Petrol,Manual,2,616268
+Honda,Civic,2022,53108,Fair,Petrol,Manual,1,381609
+Toyota,Fortuner,2021,67181,Good,Diesel,Manual,1,772055
+Mahindra,Thar,2015,131245,Poor,Diesel,Manual,2,186160
+Toyota,Fortuner,2015,128134,Fair,EV,Manual,1,189334
+Toyota,Innova,2016,121209,Poor,Petrol,Manual,1,269592
+Honda,Amaze,2021,61507,Good,CNG,Manual,1,511655
+Tata,Nexon,2020,73044,Good,Diesel,Automatic,1,396432
+Tata,Harrier,2013,160133,Poor,Petrol,Manual,3,114503
+Hyundai,Creta,2017,110979,Fair,Petrol,Automatic,1,188734
+Mahindra,Thar,2017,112715,Good,Petrol,Automatic,1,475735
+Tata,Harrier,2022,52710,Good,Petrol,Manual,1,501407
+Maruti Suzuki,Baleno,2023,37292,Fair,Diesel,Manual,1,783403
+Hyundai,Venue,2018,94524,Excellent,Petrol,Manual,1,591346
+Hyundai,Venue,2019,90032,Fair,Petrol,Automatic,1,413752
+Tata,Harrier,2022,46122,Excellent,Petrol,Manual,1,772910
+Mahindra,Scorpio,2019,87497,Fair,Diesel,Manual,1,422874
+Maruti Suzuki,WagonR,2019,83900,Good,Petrol,Automatic,1,492079
+Maruti Suzuki,WagonR,2021,58760,Excellent,Petrol,Manual,1,724569
+Mahindra,Thar,2017,113810,Excellent,Petrol,Manual,1,264159
+Toyota,Fortuner,2024,27911,Excellent,Petrol,Automatic,1,1331477
+Maruti Suzuki,Swift,2023,39881,Good,Diesel,Automatic,1,895184
+Tata,Harrier,2012,165580,Good,Diesel,Automatic,1,50000
+Toyota,Fortuner,2013,154230,Poor,Petrol,Automatic,1,50000
+Toyota,Innova,2015,132880,Fair,Petrol,Manual,1,77307
+Hyundai,i20,2016,121107,Good,Petrol,Manual,1,366393
+Honda,City,2024,21095,Fair,Petrol,Automatic,1,513517
+Mahindra,XUV700,2022,46198,Excellent,Petrol,Manual,2,926789
+Tata,Harrier,2018,99112,Excellent,Petrol,Manual,1,503613
+Mahindra,Scorpio,2016,121805,Good,Diesel,Manual,1,272691
+Honda,Civic,2013,154201,Poor,EV,Manual,3,50000
+Toyota,Fortuner,2012,163998,Good,Diesel,Manual,2,108071
+Tata,Harrier,2024,21505,Fair,Diesel,Manual,1,795992
+Tata,Harrier,2016,117172,Poor,Petrol,Manual,2,281495
+Mahindra,Thar,2024,13115,Fair,Petrol,Manual,2,884142
+Tata,Nexon,2014,140604,Fair,Petrol,Manual,1,141926
+Hyundai,Creta,2023,31309,Poor,Petrol,Automatic,2,540535
+Hyundai,i20,2024,17294,Good,Diesel,Automatic,2,890256
+Mahindra,Thar,2025,16249,Good,Petrol,Automatic,2,908102
+Tata,Tiago,2013,159235,Good,Diesel,Manual,1,50000
+Toyota,Innova,2017,102930,Good,Petrol,Manual,1,173937
+Tata,Harrier,2015,137882,Good,Petrol,Automatic,1,149437
+Toyota,Fortuner,2021,57081,Excellent,Petrol,Manual,3,612127
+Honda,Amaze,2013,144808,Fair,Petrol,Manual,1,220127
+Honda,City,2023,35227,Good,EV,Automatic,2,587636
+Hyundai,i20,2019,82750,Excellent,Petrol,Automatic,1,420751
+Toyota,Fortuner,2012,161316,Excellent,Petrol,Manual,2,50000
+Tata,Nexon,2018,100292,Poor,Diesel,Automatic,2,149407
+Hyundai,Creta,2023,32797,Good,Petrol,Manual,2,1070887
+Honda,City,2016,115988,Good,Petrol,Manual,1,457457
+Mahindra,Scorpio,2021,57476,Poor,Petrol,Manual,2,320558
+Toyota,Innova,2025,11384,Good,Petrol,Manual,1,1100019
+Tata,Harrier,2017,104896,Good,Diesel,Automatic,1,349156
+Hyundai,Venue,2018,94191,Poor,Petrol,Automatic,1,236759
+Tata,Nexon,2021,60942,Good,Petrol,Automatic,1,754526
+Hyundai,Venue,2014,147798,Good,Diesel,Automatic,1,251090
+Tata,Tiago,2024,19802,Good,EV,Automatic,2,825306
+Toyota,Fortuner,2017,105891,Good,Petrol,Manual,1,252664
+Mahindra,Thar,2022,51129,Fair,Petrol,Manual,2,419588
+Honda,Amaze,2023,33500,Excellent,Petrol,Manual,2,784566
+Toyota,Innova,2017,110715,Good,Diesel,Manual,2,266842
+Toyota,Glanza,2020,74395,Good,Diesel,Automatic,3,647241
+Hyundai,Creta,2014,148988,Fair,Diesel,Automatic,1,50000
+Maruti Suzuki,Swift,2020,76415,Fair,Petrol,Automatic,1,560492
+Tata,Harrier,2012,174346,Good,Petrol,Manual,2,54413
+Toyota,Glanza,2023,44186,Good,Petrol,Automatic,3,720545
+Mahindra,Thar,2015,124843,Good,Petrol,Manual,1,334482
+Hyundai,i20,2020,85551,Poor,Diesel,Manual,3,392597
+Toyota,Fortuner,2025,14599,Good,Petrol,Manual,1,1020434
+Hyundai,Venue,2020,76050,Poor,Diesel,Manual,1,294656
+Mahindra,Scorpio,2024,20375,Fair,Diesel,Manual,1,913229
+Hyundai,Creta,2023,27691,Excellent,Petrol,Automatic,2,1131062
+Mahindra,XUV700,2024,17751,Fair,Petrol,Automatic,2,933539
+Hyundai,Creta,2015,134671,Fair,Diesel,Manual,2,50000
+Mahindra,Scorpio,2020,76782,Poor,Petrol,Manual,2,314743
+Toyota,Fortuner,2019,79323,Good,Petrol,Manual,2,669788
+Maruti Suzuki,Swift,2025,9779,Good,Petrol,Manual,2,676306
+Maruti Suzuki,WagonR,2017,110260,Excellent,Petrol,Manual,2,365093
+Maruti Suzuki,Baleno,2017,101381,Good,CNG,Manual,2,478698
+Mahindra,Scorpio,2018,92833,Poor,Diesel,Automatic,2,378199
+Honda,City,2021,56993,Fair,Petrol,Manual,1,341965
+Honda,Amaze,2020,73401,Poor,Diesel,Manual,1,177914
+Toyota,Glanza,2025,11526,Good,CNG,Manual,1,559496
+Hyundai,i20,2016,120092,Good,Petrol,Manual,2,326994
+Mahindra,Thar,2012,165982,Poor,CNG,Automatic,1,115719
+Maruti Suzuki,Swift,2018,98641,Excellent,Petrol,Automatic,1,238503
+Honda,Amaze,2013,160831,Good,Petrol,Manual,2,75866
+Mahindra,XUV700,2023,26625,Fair,Diesel,Automatic,3,773549
+Tata,Harrier,2021,57048,Good,Petrol,Manual,2,349642
+Honda,Amaze,2016,123913,Fair,CNG,Automatic,2,205827
+Hyundai,i20,2017,98583,Poor,Diesel,Manual,2,160988
+Maruti Suzuki,WagonR,2017,98528,Good,Petrol,Automatic,1,283054
+Hyundai,Venue,2024,27148,Poor,Diesel,Manual,2,499123
+Honda,Civic,2018,92271,Poor,Diesel,Automatic,1,389633
+Tata,Nexon,2022,50826,Fair,Diesel,Manual,1,640563
+Toyota,Fortuner,2016,118626,Excellent,Petrol,Automatic,1,414663
+Maruti Suzuki,Swift,2018,93713,Good,Petrol,Manual,1,613728
+Hyundai,i20,2012,173292,Fair,Diesel,Automatic,1,50000
+Tata,Tiago,2025,8298,Good,Petrol,Automatic,4,1116005
+Mahindra,Scorpio,2016,125370,Excellent,Petrol,Manual,2,445522
+Honda,City,2013,140719,Excellent,Diesel,Manual,1,226203
+Toyota,Innova,2015,136879,Poor,Diesel,Automatic,1,256454
+Mahindra,XUV700,2022,48044,Good,Petrol,Automatic,1,582459
+Toyota,Fortuner,2025,12174,Excellent,Petrol,Automatic,1,903093
+Mahindra,Thar,2022,47285,Fair,Petrol,Manual,2,413092
+Maruti Suzuki,Baleno,2015,130705,Good,Petrol,Manual,1,252448
+Tata,Tiago,2013,168332,Excellent,Petrol,Manual,2,106304
+Toyota,Fortuner,2018,101913,Poor,EV,Manual,4,249941
+Toyota,Glanza,2024,28044,Excellent,Diesel,Manual,2,842936
+Hyundai,i20,2018,93208,Excellent,Petrol,Automatic,1,470434
+Hyundai,i20,2017,107759,Poor,CNG,Manual,1,326422
+Hyundai,Venue,2019,82435,Fair,Petrol,Manual,1,516578
+Honda,Amaze,2014,149154,Poor,Diesel,Manual,2,94034
+Toyota,Glanza,2019,82901,Good,Petrol,Manual,1,290317
+Maruti Suzuki,Swift,2017,102959,Good,CNG,Manual,2,306077
+Toyota,Fortuner,2014,149088,Good,CNG,Manual,1,57655
+Maruti Suzuki,Swift,2024,12251,Good,Petrol,Manual,2,628604
+Tata,Nexon,2016,116406,Good,Diesel,Manual,1,226132
+Honda,City,2019,87161,Fair,Petrol,Manual,2,560363
+Toyota,Glanza,2019,77641,Fair,Petrol,Manual,1,554141
+Toyota,Innova,2024,24043,Good,Diesel,Automatic,1,759536
+Honda,City,2019,83586,Fair,Diesel,Automatic,1,530124
+Tata,Tiago,2023,41680,Good,Diesel,Manual,2,731195
+Maruti Suzuki,Baleno,2016,118998,Poor,Diesel,Automatic,2,104813
+Toyota,Fortuner,2025,14434,Fair,Petrol,Automatic,2,894766
+Maruti Suzuki,WagonR,2017,113609,Good,Diesel,Automatic,1,150083
+Tata,Nexon,2021,57498,Good,Diesel,Manual,4,488960
+Hyundai,i20,2024,21736,Good,CNG,Manual,1,1094809
+Mahindra,Thar,2023,36861,Excellent,Petrol,Automatic,2,635738
+Toyota,Fortuner,2021,64395,Poor,Petrol,Automatic,1,566253
+Maruti Suzuki,Swift,2016,115267,Excellent,Petrol,Automatic,1,345229
+Honda,Civic,2012,169150,Good,EV,Manual,1,50000
+Hyundai,i20,2020,65269,Good,CNG,Automatic,1,320795
+Hyundai,Venue,2023,32556,Good,Petrol,Automatic,1,810555
+Toyota,Innova,2021,63944,Fair,EV,Automatic,1,265814
+Hyundai,i20,2018,100791,Good,Petrol,Automatic,2,484066
+Toyota,Glanza,2025,8108,Good,Petrol,Automatic,1,811339
+Hyundai,i20,2023,42316,Good,Petrol,Automatic,1,729305
+Tata,Tiago,2014,135680,Excellent,Diesel,Automatic,2,284066
+Hyundai,Creta,2020,70629,Good,Diesel,Manual,1,694820
+Honda,Amaze,2021,61247,Good,Petrol,Manual,2,446869
+Toyota,Innova,2019,92384,Good,Diesel,Manual,1,296740
+Maruti Suzuki,WagonR,2018,90183,Fair,Petrol,Manual,3,417928
+Hyundai,Creta,2018,103427,Excellent,Petrol,Automatic,1,567611
+Toyota,Innova,2015,121762,Fair,Diesel,Manual,1,323861
+Maruti Suzuki,Baleno,2022,44505,Good,Petrol,Automatic,3,700458
+Toyota,Fortuner,2019,91327,Good,Diesel,Manual,2,412615
+Maruti Suzuki,Baleno,2013,148185,Fair,Petrol,Manual,1,50000
+Toyota,Innova,2024,27625,Good,Diesel,Manual,3,1095967
+Toyota,Glanza,2018,106047,Fair,Diesel,Manual,1,484573
+Toyota,Glanza,2022,42781,Poor,Diesel,Automatic,1,410047
+Honda,Amaze,2012,168857,Good,Petrol,Manual,1,50000
+Toyota,Glanza,2021,62935,Good,Diesel,Manual,1,330801
+Tata,Harrier,2020,68403,Fair,Diesel,Automatic,2,234189
+Maruti Suzuki,Baleno,2012,168261,Good,Petrol,Automatic,1,132049
+Mahindra,XUV700,2023,37078,Good,Diesel,Automatic,1,810855
+Hyundai,i20,2017,108965,Good,Petrol,Manual,1,332802
+Toyota,Glanza,2015,129386,Good,Diesel,Automatic,1,142132
+Toyota,Glanza,2025,7445,Excellent,Diesel,Manual,1,1237252
+Maruti Suzuki,WagonR,2013,155199,Excellent,Diesel,Automatic,1,292784
+Hyundai,Creta,2025,10782,Good,Petrol,Manual,1,906027
+Mahindra,XUV700,2023,36743,Good,EV,Manual,1,780800
+Hyundai,i20,2016,119143,Fair,Diesel,Manual,2,259705
+Tata,Harrier,2020,70093,Good,Petrol,Automatic,1,565778
+Hyundai,Creta,2020,71982,Good,CNG,Manual,1,608376
+Toyota,Fortuner,2025,12539,Fair,Petrol,Manual,1,811754
+Mahindra,XUV700,2020,77446,Good,Petrol,Manual,1,271732
+Hyundai,i20,2017,100711,Good,Diesel,Automatic,1,297904
+Mahindra,Thar,2020,72629,Poor,Diesel,Automatic,1,316251
+Maruti Suzuki,Swift,2021,61169,Good,CNG,Manual,1,568926
+Hyundai,Creta,2021,65824,Fair,Diesel,Manual,2,441844
+Hyundai,Creta,2020,66786,Good,Diesel,Manual,1,667331
+Mahindra,Scorpio,2015,120196,Good,EV,Manual,1,201131
+Toyota,Innova,2012,166796,Good,Diesel,Manual,4,50000
+Hyundai,Creta,2022,43756,Excellent,CNG,Automatic,3,670491
+Mahindra,XUV700,2020,71106,Fair,Petrol,Automatic,1,522784
+Tata,Nexon,2017,105036,Excellent,CNG,Manual,1,580957
+Mahindra,Scorpio,2013,150493,Good,CNG,Automatic,1,114114
+Maruti Suzuki,WagonR,2012,171660,Good,Petrol,Automatic,2,95436
+Maruti Suzuki,Swift,2014,151510,Excellent,Petrol,Manual,2,50000
+Honda,Civic,2017,107525,Fair,CNG,Manual,1,266261
+Hyundai,Creta,2015,127144,Good,Petrol,Automatic,1,313732
+Honda,City,2020,74123,Fair,Petrol,Automatic,2,461967
+Maruti Suzuki,Baleno,2021,67814,Excellent,CNG,Manual,2,812783
+Mahindra,Thar,2023,35877,Good,EV,Manual,3,843866
+Maruti Suzuki,Baleno,2021,53569,Fair,CNG,Manual,1,457358
+Tata,Nexon,2016,123184,Excellent,Diesel,Manual,1,393630
+Toyota,Fortuner,2016,118716,Good,Diesel,Manual,2,354791
+Tata,Tiago,2017,105470,Good,CNG,Automatic,1,435399
+Mahindra,XUV700,2013,154700,Excellent,Diesel,Automatic,1,110784
+Honda,City,2017,102839,Good,Petrol,Manual,1,249678
+Toyota,Fortuner,2020,76714,Good,Petrol,Automatic,1,718831
+Tata,Nexon,2025,12906,Excellent,Petrol,Automatic,2,1440784
+Hyundai,i20,2020,63157,Excellent,Diesel,Manual,1,542884
+Maruti Suzuki,Swift,2019,81893,Good,Petrol,Automatic,1,588054
+Toyota,Fortuner,2021,55633,Fair,Petrol,Automatic,1,484193
+Tata,Harrier,2015,136144,Good,Diesel,Manual,1,339969
+Toyota,Fortuner,2024,26694,Fair,Petrol,Manual,1,716548
+Hyundai,Venue,2018,91409,Good,Diesel,Manual,2,445288
+Toyota,Innova,2020,59455,Fair,Petrol,Manual,2,304042
+Toyota,Fortuner,2014,140156,Excellent,Petrol,Manual,2,103022
+Hyundai,Creta,2025,8049,Fair,Petrol,Manual,2,1037454
+Tata,Tiago,2024,27464,Excellent,CNG,Manual,1,533125
+Hyundai,i20,2025,12560,Poor,CNG,Automatic,1,831946
+Tata,Tiago,2023,35787,Good,Diesel,Manual,1,1068799
+Maruti Suzuki,WagonR,2016,122525,Fair,Petrol,Manual,1,196180
+Toyota,Fortuner,2021,68957,Poor,Petrol,Automatic,1,342443
+Tata,Tiago,2012,173980,Good,CNG,Automatic,1,111966
+Toyota,Fortuner,2020,76192,Good,Petrol,Manual,2,709247
+Tata,Harrier,2020,75875,Excellent,Diesel,Manual,1,772686
+Tata,Tiago,2016,116832,Good,Diesel,Manual,1,325497
+Tata,Tiago,2021,64357,Good,Petrol,Manual,2,831876
+Hyundai,i20,2018,97635,Good,Petrol,Automatic,1,573570
+Mahindra,Thar,2023,35395,Excellent,Diesel,Manual,1,470764
+Hyundai,Creta,2024,30081,Poor,Diesel,Manual,3,643786
+Tata,Harrier,2015,129202,Poor,Petrol,Manual,1,216159
+Maruti Suzuki,Baleno,2024,22216,Excellent,Diesel,Automatic,4,711327
+Mahindra,Thar,2018,92490,Excellent,Petrol,Manual,2,192803
+Hyundai,Creta,2020,65201,Excellent,Petrol,Manual,1,508884
+Mahindra,Scorpio,2013,155658,Good,Petrol,Manual,1,234602
+Mahindra,Scorpio,2024,23224,Good,Diesel,Manual,1,828789
+Tata,Harrier,2014,154256,Poor,Diesel,Manual,1,108793
+Tata,Harrier,2019,80530,Excellent,Petrol,Automatic,1,272576
+Maruti Suzuki,WagonR,2017,103768,Good,Petrol,Automatic,1,334090
+Maruti Suzuki,WagonR,2016,111485,Good,Petrol,Automatic,1,459380
+Honda,City,2019,80059,Good,Diesel,Manual,2,599898
+Maruti Suzuki,Baleno,2025,15284,Fair,Diesel,Manual,1,926258
+Toyota,Glanza,2015,123857,Good,Petrol,Automatic,1,116633
+Toyota,Fortuner,2016,118230,Good,Petrol,Manual,1,394474
+Maruti Suzuki,Swift,2015,129765,Good,Diesel,Manual,2,56242
+Mahindra,Thar,2015,140055,Good,Petrol,Automatic,2,139244
+Toyota,Fortuner,2012,167642,Excellent,Diesel,Automatic,3,100963
+Hyundai,Creta,2015,124665,Good,Petrol,Manual,1,186462
+Maruti Suzuki,Swift,2018,104818,Poor,Petrol,Automatic,1,293836
+Hyundai,Creta,2023,40315,Good,Petrol,Automatic,1,803588
+Honda,Civic,2016,123532,Good,Petrol,Automatic,2,402376
+Toyota,Glanza,2019,83904,Good,Petrol,Manual,1,564804
+Hyundai,Venue,2016,117430,Excellent,Petrol,Manual,3,166920
+Honda,Amaze,2021,64174,Fair,CNG,Manual,1,606378
+Tata,Harrier,2024,17674,Good,Diesel,Automatic,1,504556
+Honda,Civic,2022,56135,Good,Diesel,Manual,1,724340
+Tata,Tiago,2024,23277,Good,Petrol,Automatic,1,1015317
+Honda,City,2019,91709,Excellent,CNG,Manual,1,674140
+Honda,Amaze,2014,144930,Good,Petrol,Manual,1,133097
+Honda,Amaze,2025,18512,Good,Diesel,Automatic,2,699233
+Tata,Nexon,2024,27670,Fair,Diesel,Manual,1,1017328
+Toyota,Innova,2019,76311,Good,Petrol,Automatic,1,526717
+Tata,Harrier,2016,122790,Fair,Petrol,Manual,1,126029
+Maruti Suzuki,Baleno,2012,158563,Good,Petrol,Manual,2,120137
+Toyota,Innova,2021,67035,Fair,Petrol,Manual,1,670024
+Tata,Nexon,2015,131382,Good,Petrol,Automatic,2,234331
+Honda,City,2020,71273,Good,Petrol,Automatic,1,707066
+Toyota,Innova,2015,133736,Fair,Petrol,Manual,1,106864
+Tata,Tiago,2021,60169,Fair,Diesel,Manual,1,480592
+Maruti Suzuki,Swift,2024,29947,Fair,Petrol,Manual,1,779206
+Mahindra,Scorpio,2022,48682,Good,Diesel,Manual,2,566701
+Tata,Tiago,2017,109147,Good,EV,Manual,3,456243
+Toyota,Fortuner,2021,54615,Good,Petrol,Automatic,2,790582
+Hyundai,Creta,2022,47029,Fair,Diesel,Automatic,1,567669
+Mahindra,Thar,2015,133727,Good,Diesel,Manual,4,126138
+Mahindra,Scorpio,2021,59771,Good,Petrol,Manual,1,574327
+Hyundai,i20,2017,106991,Fair,Diesel,Manual,2,128862
+Toyota,Innova,2012,179562,Good,Petrol,Automatic,1,154190
+Honda,Civic,2016,126356,Good,Petrol,Automatic,1,271142
+Mahindra,Thar,2018,96577,Excellent,EV,Automatic,2,371116
+Mahindra,XUV700,2016,124211,Fair,Petrol,Automatic,1,343134
+Hyundai,Venue,2018,106342,Good,Petrol,Automatic,1,269132
+Mahindra,XUV700,2024,22180,Excellent,Diesel,Manual,2,516913
+Honda,Civic,2021,62561,Good,CNG,Manual,1,886143
+Mahindra,Thar,2021,62064,Fair,Petrol,Automatic,2,429212
+Toyota,Innova,2022,42038,Good,CNG,Automatic,1,731968
+Mahindra,Thar,2021,59291,Good,Diesel,Manual,1,344459
+Maruti Suzuki,Baleno,2025,13511,Good,Diesel,Automatic,1,956137
+Toyota,Fortuner,2021,53685,Excellent,Diesel,Automatic,1,822323
+Mahindra,Scorpio,2018,89852,Fair,Diesel,Automatic,1,425309
+Hyundai,Creta,2012,160759,Good,Diesel,Automatic,1,50000
+Toyota,Innova,2013,150143,Good,Petrol,Manual,2,133972
+Hyundai,i20,2015,122646,Good,Petrol,Manual,2,240491
+Maruti Suzuki,Swift,2015,130220,Good,Diesel,Manual,2,317896
+Honda,City,2020,74860,Good,Diesel,Manual,1,523961
+Honda,Amaze,2021,58094,Good,Diesel,Manual,1,837113
+Hyundai,i20,2024,25221,Fair,Petrol,Manual,2,833768
+Tata,Harrier,2015,134836,Good,CNG,Manual,1,389721
+Toyota,Glanza,2012,170929,Good,Petrol,Automatic,1,207320
+Maruti Suzuki,WagonR,2022,51526,Fair,Petrol,Automatic,1,394528
+Tata,Harrier,2016,120985,Fair,Diesel,Manual,1,378661
+Toyota,Fortuner,2013,156938,Good,Petrol,Automatic,1,225130
+Hyundai,Venue,2025,1305,Good,CNG,Automatic,2,1245969
+Maruti Suzuki,Baleno,2024,23017,Fair,Diesel,Automatic,2,456600
+Toyota,Glanza,2022,50625,Good,Petrol,Manual,1,675835
+Hyundai,i20,2015,120348,Good,Petrol,Manual,1,357093
+Mahindra,Scorpio,2016,125466,Poor,Petrol,Manual,2,223096
+Maruti Suzuki,Swift,2013,150567,Good,Petrol,Manual,1,111704
+Honda,Amaze,2013,156076,Good,CNG,Manual,1,208604
+Toyota,Fortuner,2020,63990,Excellent,Petrol,Automatic,2,295960
+Honda,Civic,2014,139103,Good,Petrol,Automatic,3,288652
+Maruti Suzuki,Baleno,2013,155944,Fair,Petrol,Automatic,1,51342
+Maruti Suzuki,Swift,2018,96284,Fair,Petrol,Automatic,2,149390
+Mahindra,XUV700,2016,114417,Good,Petrol,Automatic,1,147964
+Hyundai,Venue,2015,140226,Poor,Diesel,Manual,2,201414
+Honda,Amaze,2022,44167,Fair,Diesel,Manual,4,256473
+Honda,Amaze,2013,163697,Good,CNG,Automatic,1,50000
+Hyundai,i20,2015,129861,Good,Petrol,Manual,1,216240
+Tata,Nexon,2013,154587,Good,EV,Manual,1,158292
+Hyundai,Creta,2023,33886,Good,Petrol,Automatic,2,879997
+Honda,City,2015,123716,Good,Diesel,Manual,4,50000
+Tata,Nexon,2023,45321,Fair,Petrol,Automatic,4,725184
+Mahindra,XUV700,2019,81755,Good,Diesel,Manual,1,589727
+Mahindra,Thar,2015,129969,Good,Petrol,Automatic,2,138267
+Hyundai,Venue,2025,18957,Fair,CNG,Manual,1,859381
+Maruti Suzuki,Baleno,2013,154938,Good,Petrol,Automatic,1,124087
+Maruti Suzuki,WagonR,2019,82376,Poor,CNG,Automatic,1,312244
+Honda,Amaze,2015,132436,Good,Petrol,Manual,1,335268
+Maruti Suzuki,Swift,2012,168228,Good,EV,Manual,1,133165
+Maruti Suzuki,WagonR,2023,35150,Excellent,CNG,Manual,1,550033
+Maruti Suzuki,Swift,2015,130533,Good,Diesel,Manual,2,58038
+Maruti Suzuki,WagonR,2020,69773,Good,Petrol,Manual,2,603775
+Hyundai,Venue,2019,85703,Excellent,Petrol,Automatic,4,530601
+Honda,Amaze,2025,22383,Poor,Diesel,Manual,3,790131
+Mahindra,Scorpio,2022,48440,Good,Diesel,Automatic,1,473974
+Toyota,Fortuner,2024,21031,Fair,Petrol,Manual,1,558424
+Tata,Nexon,2012,170832,Good,Petrol,Automatic,1,150790
+Hyundai,Creta,2021,64803,Excellent,Petrol,Manual,2,891845
+Maruti Suzuki,WagonR,2024,19798,Excellent,Diesel,Manual,1,1226289
+Tata,Harrier,2016,118006,Excellent,Diesel,Manual,1,179995
+Tata,Tiago,2012,169090,Good,CNG,Manual,1,165184
+Maruti Suzuki,Baleno,2013,149115,Fair,Petrol,Automatic,1,105361
+Maruti Suzuki,Swift,2015,123208,Excellent,Petrol,Manual,1,231745
+Mahindra,Scorpio,2017,106744,Fair,Petrol,Manual,1,355912
+Hyundai,i20,2017,106091,Poor,Petrol,Automatic,1,156309
+Hyundai,Venue,2019,87700,Poor,Petrol,Automatic,1,448618
+Tata,Nexon,2017,105337,Fair,Petrol,Manual,1,434780
+Hyundai,Creta,2017,111106,Good,Diesel,Automatic,3,254231
+Tata,Harrier,2023,35633,Good,Petrol,Automatic,1,1077434
+Honda,Civic,2017,106591,Good,Petrol,Automatic,1,225517
+Hyundai,i20,2018,95189,Fair,Petrol,Manual,4,380853
+Honda,Civic,2019,89975,Good,Diesel,Automatic,2,430617
+Tata,Nexon,2015,132877,Poor,Diesel,Manual,2,228541
+Hyundai,Venue,2023,30876,Good,Diesel,Automatic,3,409651
+Toyota,Glanza,2018,95471,Fair,Petrol,Manual,1,440437
+Hyundai,i20,2018,98529,Good,Petrol,Manual,2,170377
+Maruti Suzuki,Swift,2016,124768,Good,Petrol,Manual,2,295317
+Tata,Nexon,2020,82859,Good,CNG,Manual,1,315357
+Hyundai,i20,2025,8783,Fair,Diesel,Manual,1,587854
+Mahindra,XUV700,2015,136823,Good,Diesel,Automatic,1,221882
+Tata,Harrier,2025,16444,Excellent,Petrol,Manual,1,1106923
+Tata,Nexon,2019,81247,Good,Diesel,Manual,1,279561
+Tata,Harrier,2022,50321,Excellent,Diesel,Manual,2,508291
+Tata,Nexon,2020,78121,Excellent,Petrol,Manual,1,533760
+Honda,Civic,2018,92670,Good,Diesel,Automatic,1,361810
+Tata,Harrier,2023,30611,Fair,Diesel,Manual,1,621191
+Toyota,Fortuner,2013,160383,Excellent,EV,Automatic,2,50000
+Maruti Suzuki,WagonR,2015,130441,Fair,Diesel,Automatic,1,295903
+Maruti Suzuki,Swift,2018,97088,Good,Diesel,Manual,3,378649
+Mahindra,XUV700,2019,96091,Fair,Petrol,Manual,2,279936
+Maruti Suzuki,Swift,2024,27671,Good,Diesel,Manual,2,809636
+Toyota,Fortuner,2021,64646,Good,Petrol,Manual,1,349589
+Hyundai,i20,2025,6376,Good,Petrol,Manual,2,804138
+Honda,City,2014,136369,Excellent,Petrol,Manual,3,244438
+Toyota,Innova,2012,163872,Fair,Diesel,Manual,2,50000
+Maruti Suzuki,WagonR,2012,169959,Good,Petrol,Manual,2,50000
+Toyota,Fortuner,2015,138524,Poor,Petrol,Automatic,1,209788
+Mahindra,Thar,2012,168675,Excellent,Diesel,Automatic,1,50000
+Maruti Suzuki,Swift,2015,132441,Good,CNG,Automatic,1,313726
+Mahindra,XUV700,2023,36538,Good,Diesel,Automatic,1,471905
+Tata,Nexon,2022,56528,Fair,Petrol,Automatic,2,540355
+Tata,Tiago,2023,29449,Good,CNG,Manual,1,855666
+Mahindra,XUV700,2022,50935,Excellent,Diesel,Automatic,2,606113
+Toyota,Fortuner,2016,120032,Good,Petrol,Manual,1,438546
+Hyundai,i20,2019,77397,Fair,Diesel,Manual,3,223858
+Maruti Suzuki,WagonR,2013,157929,Excellent,Petrol,Automatic,2,94048
+Hyundai,Venue,2014,146127,Good,Petrol,Automatic,1,282974
+Tata,Nexon,2020,67339,Excellent,CNG,Automatic,1,616265
+Hyundai,Venue,2015,130073,Fair,Petrol,Automatic,1,131842
+Mahindra,Scorpio,2020,59761,Good,Petrol,Automatic,1,429103
+Tata,Nexon,2016,111783,Good,CNG,Automatic,1,377257
+Maruti Suzuki,Swift,2018,89465,Fair,Petrol,Manual,1,329111
+Mahindra,Thar,2012,170830,Good,Diesel,Automatic,2,164099
+Honda,Civic,2019,83699,Excellent,Diesel,Manual,2,491630
+Maruti Suzuki,WagonR,2013,149210,Excellent,Diesel,Automatic,1,50000
+Tata,Tiago,2023,36887,Good,EV,Manual,1,492736
+Maruti Suzuki,Swift,2013,156847,Good,Petrol,Manual,2,206879
+Honda,City,2018,95763,Good,Diesel,Automatic,1,571896
+Hyundai,i20,2015,131887,Good,Petrol,Manual,2,245695
+Honda,City,2020,75062,Excellent,Diesel,Automatic,2,434410
+Hyundai,Venue,2017,103967,Good,Petrol,Manual,1,214657
+Honda,Civic,2019,81703,Good,Diesel,Manual,1,392652
+Mahindra,Scorpio,2020,68882,Fair,Diesel,Manual,1,422444
+Toyota,Glanza,2013,152988,Good,Petrol,Manual,1,50000
+Toyota,Glanza,2013,158958,Good,Petrol,Manual,1,279708
+Mahindra,Thar,2016,122846,Fair,Diesel,Automatic,1,180796
+Honda,Civic,2013,156577,Good,EV,Manual,2,62316
+Toyota,Innova,2020,71851,Good,Petrol,Automatic,2,273599
+Honda,Civic,2018,93096,Fair,Diesel,Manual,1,378004
+Toyota,Innova,2025,12678,Excellent,Petrol,Automatic,1,871063
+Honda,City,2024,30259,Good,Petrol,Manual,1,1178720
+Toyota,Fortuner,2021,64579,Excellent,Diesel,Automatic,2,851832
+Mahindra,Thar,2016,124852,Good,Diesel,Automatic,2,393266
+Toyota,Glanza,2013,149708,Good,Petrol,Automatic,2,168549
+Toyota,Fortuner,2017,108603,Excellent,EV,Automatic,1,207542
+Honda,City,2022,44739,Excellent,Diesel,Manual,1,960050
+Maruti Suzuki,WagonR,2023,36985,Good,Diesel,Automatic,1,752842
+Honda,Civic,2021,56863,Good,Petrol,Manual,1,764107
+Mahindra,Thar,2019,96357,Good,Petrol,Manual,1,495950
+Mahindra,XUV700,2017,102738,Fair,Petrol,Manual,1,220335
+Hyundai,i20,2024,30498,Good,CNG,Automatic,2,861558
+Tata,Harrier,2015,132438,Good,Petrol,Automatic,1,316965
+Hyundai,Venue,2024,21502,Excellent,Petrol,Automatic,1,1116560
+Maruti Suzuki,Baleno,2021,58631,Good,Diesel,Automatic,1,551726
+Hyundai,Creta,2024,26629,Good,Petrol,Manual,1,689385
+Tata,Tiago,2020,73219,Excellent,Diesel,Automatic,1,641172
+Honda,Civic,2024,23498,Good,Petrol,Automatic,1,760473
+Mahindra,XUV700,2013,156533,Fair,Petrol,Automatic,2,50000
+Honda,Civic,2018,94446,Good,Diesel,Automatic,2,246088
+Mahindra,Scorpio,2017,110433,Fair,Diesel,Automatic,2,302668
+Toyota,Innova,2015,124411,Fair,Petrol,Automatic,1,123224
+Tata,Harrier,2022,44139,Excellent,Diesel,Manual,1,514168
+Toyota,Glanza,2021,55665,Poor,Diesel,Manual,1,237996
+Mahindra,Thar,2024,23325,Excellent,CNG,Automatic,2,1256453
+Tata,Harrier,2013,152578,Good,Petrol,Manual,2,249310
+Hyundai,Venue,2013,150479,Fair,EV,Manual,1,50000
+Toyota,Innova,2012,166272,Fair,Petrol,Manual,1,50000
+Mahindra,Scorpio,2018,94937,Fair,Diesel,Automatic,2,379076
+Hyundai,i20,2024,19383,Good,Petrol,Manual,3,614045
+Maruti Suzuki,WagonR,2013,161277,Fair,Diesel,Automatic,2,53374
+Honda,Amaze,2013,155431,Good,CNG,Manual,1,156467
+Maruti Suzuki,WagonR,2025,19995,Good,Diesel,Manual,3,598791
+Toyota,Innova,2018,98814,Fair,Petrol,Automatic,1,359789
+Maruti Suzuki,Swift,2025,11462,Excellent,Diesel,Automatic,1,881960
+Toyota,Glanza,2017,111154,Excellent,Petrol,Manual,4,130480
+Toyota,Glanza,2015,139083,Good,Diesel,Manual,1,107932
+Mahindra,Thar,2023,31698,Fair,Diesel,Manual,3,353098
+Honda,Civic,2023,33772,Good,Petrol,Automatic,3,675174
+Toyota,Fortuner,2012,160911,Excellent,Petrol,Manual,3,164255
+Hyundai,Creta,2012,179288,Fair,Diesel,Manual,1,50000
+Toyota,Glanza,2018,93104,Good,Petrol,Automatic,1,360256
+Mahindra,Thar,2024,35289,Excellent,Diesel,Automatic,2,1204024
+Maruti Suzuki,Swift,2021,60152,Good,CNG,Automatic,1,483551
+Hyundai,Creta,2020,74637,Fair,EV,Manual,1,259171
+Hyundai,Creta,2014,144699,Good,Diesel,Manual,1,164881
+Maruti Suzuki,WagonR,2015,127458,Excellent,CNG,Manual,1,396073
+Mahindra,Scorpio,2016,120642,Good,Diesel,Manual,1,210291
+Hyundai,i20,2025,12882,Good,Diesel,Manual,1,1309246
+Honda,Civic,2024,22197,Poor,Petrol,Manual,1,563619
+Tata,Nexon,2020,64983,Fair,Diesel,Manual,1,361365
+Tata,Nexon,2017,108255,Poor,Diesel,Automatic,2,125722
+Mahindra,Thar,2014,140311,Good,Petrol,Automatic,1,175999
+Toyota,Innova,2023,32790,Fair,EV,Automatic,1,942225
+Honda,City,2013,147587,Good,Petrol,Manual,1,287350
+Maruti Suzuki,Swift,2020,70410,Excellent,Petrol,Automatic,1,591543
+Toyota,Glanza,2019,84757,Fair,Petrol,Manual,2,210436
+Mahindra,Scorpio,2021,66272,Excellent,CNG,Automatic,1,357331
+Mahindra,Thar,2021,60815,Excellent,EV,Manual,3,511117
+Hyundai,Creta,2021,60707,Good,EV,Automatic,1,800678
+Toyota,Innova,2023,36833,Poor,Diesel,Automatic,1,455690
+Honda,Amaze,2021,61946,Good,Petrol,Manual,1,820995
+Maruti Suzuki,WagonR,2021,68003,Good,Petrol,Manual,1,453521
+Tata,Nexon,2015,130323,Good,Diesel,Automatic,1,139795
+Mahindra,Scorpio,2012,176636,Excellent,Diesel,Automatic,1,221935
+Tata,Tiago,2017,106251,Fair,Petrol,Manual,1,264595
+Hyundai,Venue,2024,19116,Excellent,EV,Manual,2,999920
+Tata,Tiago,2023,27224,Good,CNG,Automatic,1,614393
+Hyundai,Creta,2021,60253,Good,Petrol,Manual,1,806796
+Toyota,Glanza,2025,13000,Good,Petrol,Manual,1,673262
+Mahindra,Scorpio,2024,23664,Excellent,Diesel,Manual,3,498506
+Honda,Amaze,2013,158658,Good,Diesel,Automatic,1,226184
+Honda,City,2012,171237,Good,Diesel,Manual,1,118490
+Honda,City,2025,14846,Good,Diesel,Manual,1,985615
+Maruti Suzuki,Baleno,2018,96263,Excellent,CNG,Manual,3,543566
+Hyundai,Creta,2013,164838,Poor,CNG,Manual,2,50000
+Honda,City,2017,102940,Good,Petrol,Manual,2,498291
+Maruti Suzuki,WagonR,2012,165076,Excellent,Petrol,Manual,1,50000
+Mahindra,Thar,2017,99163,Good,Diesel,Manual,1,171486
+Hyundai,Creta,2013,165057,Good,Petrol,Manual,2,50000
+Toyota,Innova,2014,146895,Good,Petrol,Manual,1,50000
+Maruti Suzuki,Baleno,2024,29991,Good,CNG,Automatic,3,1037451
+Maruti Suzuki,Baleno,2023,36071,Fair,Petrol,Manual,3,392622
+Tata,Nexon,2012,168017,Good,Diesel,Manual,3,74367
+Toyota,Glanza,2018,95026,Poor,Petrol,Manual,2,279520
+Hyundai,Creta,2013,146362,Good,Diesel,Manual,1,291915
+Hyundai,Creta,2021,58064,Excellent,Petrol,Manual,1,505717
+Hyundai,Venue,2015,131564,Fair,Petrol,Automatic,3,74980
+Honda,Amaze,2023,33084,Poor,Petrol,Manual,1,587572
+Honda,Civic,2018,91055,Good,Petrol,Automatic,1,335272
+Hyundai,Creta,2017,105545,Good,Petrol,Manual,1,218507
+Toyota,Glanza,2014,150118,Good,EV,Manual,2,293672
+Toyota,Fortuner,2023,40746,Good,EV,Manual,1,996910
+Tata,Harrier,2013,152417,Fair,Diesel,Manual,2,50000
+Toyota,Innova,2025,20694,Fair,Petrol,Manual,2,731268
+Tata,Tiago,2018,91700,Excellent,Diesel,Manual,1,609560
+Toyota,Fortuner,2015,138497,Good,CNG,Automatic,1,163209
+Honda,City,2015,130545,Good,Petrol,Manual,2,270672
+Hyundai,i20,2022,47012,Good,Petrol,Automatic,1,675352
+Maruti Suzuki,WagonR,2013,155230,Good,Diesel,Manual,1,256206
+Honda,City,2020,78287,Good,Petrol,Automatic,1,421062
+Mahindra,XUV700,2019,91311,Excellent,Petrol,Manual,3,306527
+Tata,Nexon,2015,120338,Excellent,Petrol,Automatic,1,384322
+Tata,Harrier,2022,35484,Fair,Petrol,Automatic,2,691273
+Hyundai,i20,2018,93159,Fair,Petrol,Manual,2,302164
+Maruti Suzuki,Swift,2018,96414,Fair,Petrol,Manual,2,288867
+Mahindra,Thar,2022,49448,Fair,CNG,Automatic,2,674966
+Toyota,Innova,2023,30556,Excellent,Petrol,Automatic,2,709390
+Maruti Suzuki,Baleno,2023,50006,Good,Diesel,Automatic,1,979020
+Honda,Amaze,2025,15402,Good,Petrol,Automatic,1,1108790
+Maruti Suzuki,WagonR,2016,124900,Poor,Petrol,Automatic,2,252802
+Honda,Amaze,2024,22241,Good,Diesel,Manual,3,623570
+Honda,Amaze,2025,9870,Poor,Petrol,Automatic,2,562820
+Tata,Harrier,2021,57393,Excellent,Diesel,Automatic,2,603833
+Hyundai,i20,2023,29790,Fair,Diesel,Automatic,1,606840
+Toyota,Glanza,2022,45572,Fair,Diesel,Manual,1,763271
+Maruti Suzuki,Baleno,2023,30452,Good,Petrol,Automatic,1,689912
+Maruti Suzuki,Swift,2016,121368,Good,CNG,Automatic,1,329483
+Toyota,Glanza,2012,164997,Poor,Diesel,Automatic,1,57564
+Toyota,Innova,2013,154062,Fair,Petrol,Automatic,1,92955
+Tata,Harrier,2019,75673,Good,Petrol,Manual,1,680806
+Hyundai,Creta,2022,42394,Excellent,CNG,Manual,1,550039
+Maruti Suzuki,WagonR,2022,53846,Good,CNG,Manual,1,615450
+Tata,Harrier,2017,108827,Fair,Petrol,Automatic,1,227545
+Toyota,Innova,2020,74142,Good,Petrol,Manual,1,396109
+Hyundai,Venue,2016,117446,Good,CNG,Manual,2,157019
+Tata,Nexon,2018,100358,Poor,CNG,Manual,1,315729
+Maruti Suzuki,WagonR,2017,105892,Excellent,Diesel,Manual,1,185362
+Honda,Amaze,2017,114360,Good,Petrol,Automatic,3,165692
+Mahindra,XUV700,2022,55692,Good,Petrol,Automatic,2,697480
+Tata,Harrier,2023,32333,Good,Diesel,Automatic,1,954423
+Toyota,Fortuner,2013,152161,Good,CNG,Automatic,1,123012
+Tata,Tiago,2015,128191,Good,Petrol,Automatic,1,110247
+Toyota,Innova,2014,151541,Good,Petrol,Manual,2,95852
+Honda,City,2023,30998,Fair,EV,Manual,1,426018
+Maruti Suzuki,WagonR,2021,61627,Good,Petrol,Manual,1,826212
+Toyota,Innova,2014,149497,Excellent,CNG,Automatic,1,226796
+Hyundai,Venue,2021,63443,Excellent,Petrol,Manual,1,457192
+Toyota,Fortuner,2023,30496,Good,Diesel,Automatic,1,589662
+Hyundai,i20,2024,29730,Good,Diesel,Manual,1,1109271
+Maruti Suzuki,Baleno,2024,35203,Excellent,Petrol,Manual,1,716977
+Maruti Suzuki,Swift,2016,119224,Excellent,Petrol,Manual,3,275562
+Hyundai,i20,2025,12834,Good,Petrol,Automatic,2,1198360
+Hyundai,i20,2016,116107,Excellent,Petrol,Manual,2,267885
+Maruti Suzuki,Baleno,2025,4414,Good,Petrol,Manual,2,794250
+Honda,Civic,2015,141416,Fair,Petrol,Automatic,3,139030
+Toyota,Glanza,2025,3914,Fair,Petrol,Manual,1,684559
+Tata,Tiago,2015,129194,Good,Diesel,Manual,1,391667
+Toyota,Glanza,2016,118745,Fair,Petrol,Manual,1,188779
+Tata,Harrier,2014,141990,Good,Petrol,Manual,1,239826
+Honda,Civic,2016,118378,Good,CNG,Automatic,1,271160
+Honda,Civic,2013,164946,Fair,Petrol,Manual,3,50000
+Tata,Harrier,2018,99919,Fair,Diesel,Automatic,1,289880
+Hyundai,Creta,2016,117657,Fair,Petrol,Manual,2,145068
+Maruti Suzuki,WagonR,2022,47942,Poor,Petrol,Manual,2,502338
+Tata,Harrier,2021,55696,Fair,Petrol,Automatic,2,700835
+Honda,Civic,2012,162819,Good,Petrol,Automatic,2,175065
+Mahindra,Thar,2013,160436,Poor,Diesel,Automatic,1,50000
+Mahindra,XUV700,2020,67709,Excellent,Petrol,Manual,1,369553
+Tata,Harrier,2014,145653,Good,Petrol,Manual,2,50000
+Toyota,Innova,2015,125953,Poor,Petrol,Manual,1,156538
+Toyota,Glanza,2017,108360,Good,Diesel,Manual,1,181307
+Tata,Nexon,2014,150734,Excellent,Diesel,Manual,1,173669
+Honda,Amaze,2019,92660,Excellent,Petrol,Manual,4,184253
+Tata,Nexon,2012,155830,Good,Petrol,Manual,1,197313
+Honda,Civic,2024,27439,Fair,Diesel,Automatic,1,794839
+Tata,Nexon,2017,106264,Good,Diesel,Automatic,1,234875
+Mahindra,Thar,2022,54549,Poor,Petrol,Manual,2,253760
+Honda,Amaze,2017,102142,Excellent,Petrol,Manual,1,357771
+Honda,City,2025,13887,Good,Diesel,Manual,1,1325460
+Maruti Suzuki,Swift,2022,47089,Good,Diesel,Automatic,1,693540
+Maruti Suzuki,WagonR,2019,84236,Good,Petrol,Manual,1,474664
+Toyota,Innova,2025,11490,Good,CNG,Manual,1,818010
+Hyundai,i20,2021,62348,Fair,Petrol,Automatic,1,582578
+Maruti Suzuki,WagonR,2013,155574,Poor,Diesel,Manual,2,122773
+Maruti Suzuki,Baleno,2024,21666,Excellent,Petrol,Manual,3,522710
+Hyundai,Venue,2015,128315,Fair,EV,Automatic,3,236708
+Honda,City,2025,11127,Good,Petrol,Manual,1,1304386
+Mahindra,Thar,2021,56262,Poor,CNG,Automatic,1,282889
+Tata,Harrier,2013,160237,Good,Petrol,Automatic,1,212865
+Hyundai,Venue,2019,87982,Excellent,Diesel,Manual,2,568120
+Toyota,Innova,2024,21767,Good,Petrol,Manual,1,496711
+Hyundai,Creta,2020,72357,Good,Diesel,Manual,1,609630
+Hyundai,i20,2025,16298,Poor,CNG,Automatic,2,504944
+Maruti Suzuki,WagonR,2025,15219,Good,EV,Manual,2,974225
+Honda,City,2014,146093,Good,Diesel,Manual,1,62213
+Tata,Nexon,2020,65065,Excellent,Petrol,Manual,1,646500
+Honda,Civic,2025,6424,Excellent,Petrol,Automatic,1,767256
+Mahindra,Thar,2017,108366,Excellent,CNG,Manual,2,291755
+Honda,City,2012,161190,Good,Petrol,Automatic,1,210876
+Tata,Tiago,2019,96188,Fair,Petrol,Manual,1,276122
+Honda,Civic,2013,153092,Good,Petrol,Automatic,1,183646
+Tata,Harrier,2021,65230,Excellent,Petrol,Automatic,1,349820
+Maruti Suzuki,Swift,2023,37126,Good,Petrol,Manual,1,899047
+Maruti Suzuki,Swift,2023,42738,Good,Petrol,Automatic,1,645394
+Mahindra,XUV700,2018,88118,Fair,Petrol,Automatic,2,205447
+Toyota,Fortuner,2012,169973,Excellent,Diesel,Manual,1,50000
+Maruti Suzuki,WagonR,2014,137373,Good,Diesel,Automatic,1,245393
+Mahindra,XUV700,2012,174730,Good,Petrol,Manual,2,50000
+Toyota,Fortuner,2017,111277,Good,Diesel,Manual,1,343089
+Toyota,Glanza,2022,57028,Good,Petrol,Manual,2,872786
+Hyundai,i20,2018,99305,Fair,Diesel,Automatic,1,189590
+Honda,Amaze,2014,146551,Excellent,Petrol,Manual,1,330614
+Honda,Civic,2023,34161,Good,Petrol,Manual,1,635950
+Toyota,Innova,2025,15830,Good,Diesel,Automatic,1,1295695
+Mahindra,Thar,2022,47942,Good,Diesel,Manual,2,721874
+Maruti Suzuki,Baleno,2024,18548,Good,Petrol,Automatic,2,1061877
+Hyundai,Creta,2023,31657,Good,Diesel,Manual,3,393556
+Maruti Suzuki,WagonR,2025,7473,Good,Petrol,Manual,2,1216396
+Maruti Suzuki,Swift,2023,40366,Good,Diesel,Automatic,2,602521
+Honda,City,2022,49692,Good,Petrol,Automatic,1,455067
+Tata,Harrier,2024,16739,Poor,CNG,Manual,1,529283
+Honda,Civic,2025,11155,Good,EV,Manual,2,900880
+Mahindra,Scorpio,2019,88557,Good,Diesel,Manual,1,651494
+Hyundai,i20,2014,140790,Good,CNG,Manual,2,102050
+Maruti Suzuki,Baleno,2024,21701,Excellent,Petrol,Manual,1,1185290
+Maruti Suzuki,Swift,2015,126683,Poor,Petrol,Manual,1,210437
+Tata,Harrier,2012,164850,Excellent,Petrol,Manual,1,171298
+Hyundai,Creta,2016,113390,Excellent,Diesel,Manual,1,315577
+Honda,Civic,2019,88225,Good,Diesel,Manual,1,566244
+Tata,Harrier,2015,133499,Poor,Diesel,Manual,1,220918
+Honda,Amaze,2024,25099,Fair,Petrol,Manual,1,498996
+Tata,Harrier,2016,120185,Fair,Petrol,Automatic,2,308857
+Toyota,Innova,2015,128385,Good,Petrol,Manual,3,346047
+Hyundai,Creta,2013,145122,Good,Diesel,Automatic,2,209679
+Tata,Tiago,2019,80813,Good,Petrol,Manual,1,624929
+Maruti Suzuki,Baleno,2017,111986,Excellent,Petrol,Automatic,2,296095
+Toyota,Innova,2022,48713,Poor,Diesel,Automatic,2,340766
+Maruti Suzuki,Baleno,2012,176018,Good,Diesel,Manual,1,116668
+Tata,Nexon,2012,173016,Fair,Diesel,Manual,1,138580
+Honda,Civic,2023,31483,Poor,Petrol,Automatic,1,291305
+Maruti Suzuki,Baleno,2012,161350,Good,Petrol,Manual,1,155856
+Mahindra,Thar,2015,134125,Good,Petrol,Manual,1,92930
+Honda,Amaze,2014,153968,Excellent,Petrol,Automatic,2,50000
+Mahindra,Thar,2019,86222,Poor,CNG,Manual,2,411480
+Hyundai,Venue,2014,153847,Good,Petrol,Manual,1,279632
+Honda,Amaze,2016,116327,Poor,Diesel,Automatic,1,104305
+Maruti Suzuki,Swift,2012,170394,Good,Petrol,Manual,1,160636
+Honda,Civic,2017,107863,Good,Petrol,Automatic,4,380605
+Honda,Civic,2024,24886,Good,CNG,Automatic,1,1122180
+Hyundai,Venue,2013,160230,Excellent,Diesel,Manual,1,271408
+Maruti Suzuki,Baleno,2013,156652,Poor,CNG,Automatic,1,50000
+Honda,Amaze,2023,34289,Fair,Petrol,Manual,2,559182
+Hyundai,Venue,2025,18522,Fair,Petrol,Manual,1,645192
+Honda,City,2025,15589,Poor,Petrol,Automatic,1,795903
+Toyota,Innova,2025,9287,Excellent,Petrol,Manual,3,918533
+Toyota,Fortuner,2016,113109,Good,Petrol,Manual,1,301729
+Tata,Nexon,2023,35064,Good,EV,Manual,1,951240
+Honda,City,2013,162381,Good,Diesel,Manual,3,119613
+Toyota,Fortuner,2017,109602,Good,Diesel,Manual,1,507296
+Hyundai,i20,2020,61636,Fair,Petrol,Manual,1,475855
+Toyota,Innova,2019,82786,Good,Diesel,Manual,1,698874
+Maruti Suzuki,Swift,2017,108613,Good,Diesel,Automatic,2,247616
+Toyota,Glanza,2019,82295,Excellent,Petrol,Manual,1,586129
+Honda,Amaze,2015,130314,Good,EV,Manual,1,99839
+Mahindra,Scorpio,2024,29746,Good,Petrol,Manual,1,543811
+Maruti Suzuki,Swift,2020,78446,Good,Diesel,Automatic,2,561280
+Hyundai,Creta,2022,53925,Good,CNG,Manual,1,846434
+Toyota,Innova,2024,29307,Good,Diesel,Manual,1,712406
+Toyota,Innova,2020,72645,Good,Petrol,Automatic,1,431442
+Mahindra,Thar,2018,94083,Fair,Petrol,Manual,2,135723
+Hyundai,Venue,2017,104792,Fair,Diesel,Automatic,1,197513
+Maruti Suzuki,Baleno,2018,101553,Fair,Diesel,Manual,1,341129
+Mahindra,XUV700,2020,68796,Good,Petrol,Manual,1,561649
+Toyota,Glanza,2013,161452,Good,CNG,Manual,2,50000
+Honda,Amaze,2013,154148,Good,Petrol,Automatic,1,162741
+Toyota,Glanza,2018,97351,Good,Diesel,Automatic,1,544728
+Tata,Harrier,2018,97894,Good,Petrol,Manual,1,584958
+Hyundai,Creta,2025,14124,Good,Petrol,Automatic,1,742138
+Tata,Harrier,2023,35368,Excellent,Diesel,Manual,1,560765
+Maruti Suzuki,WagonR,2013,152931,Fair,Petrol,Automatic,1,94426
+Maruti Suzuki,Swift,2019,85258,Good,CNG,Automatic,3,220462
+Honda,City,2013,161555,Excellent,Petrol,Automatic,1,53421
+Toyota,Fortuner,2013,157087,Fair,Petrol,Manual,1,110721
+Tata,Tiago,2019,88539,Good,Petrol,Manual,2,331590
+Mahindra,XUV700,2025,14631,Good,Petrol,Automatic,1,999378
+Toyota,Innova,2014,147290,Good,Petrol,Automatic,1,50113
+Honda,Amaze,2020,79547,Fair,Diesel,Manual,1,433511
+Mahindra,Thar,2013,141166,Poor,Diesel,Manual,1,83860
+Mahindra,XUV700,2024,19685,Poor,Petrol,Manual,2,621693
+Tata,Tiago,2015,132398,Good,EV,Manual,3,83358
+Honda,Amaze,2014,144507,Good,Diesel,Automatic,3,52200
+Toyota,Glanza,2014,140231,Excellent,EV,Manual,3,76291
+Hyundai,Venue,2023,42572,Fair,Diesel,Automatic,1,629863
+Hyundai,Creta,2019,83966,Good,CNG,Manual,2,321364
+Mahindra,Thar,2015,122223,Fair,Petrol,Manual,1,170688
+Mahindra,Scorpio,2016,112228,Fair,Diesel,Manual,4,205691
+Tata,Nexon,2014,139156,Fair,Diesel,Automatic,1,143653
+Mahindra,Scorpio,2012,174783,Good,Diesel,Manual,2,123206
+Mahindra,XUV700,2012,163025,Good,Petrol,Manual,1,168983
+Maruti Suzuki,WagonR,2024,22871,Excellent,CNG,Automatic,1,1201070
+Maruti Suzuki,Swift,2015,127670,Fair,Petrol,Manual,1,224292
+Mahindra,Thar,2014,143937,Excellent,Petrol,Manual,1,350719
+Mahindra,Thar,2017,112365,Good,Diesel,Manual,1,239112
+Hyundai,i20,2018,99044,Good,Petrol,Automatic,1,501419
+Honda,Amaze,2019,84341,Good,Petrol,Automatic,1,282632
+Tata,Harrier,2024,28089,Good,Diesel,Manual,1,1179560
+Toyota,Innova,2016,126514,Good,Petrol,Manual,1,145916
+Maruti Suzuki,Swift,2016,116674,Good,Petrol,Manual,1,162324
+Honda,Civic,2016,118154,Excellent,Diesel,Automatic,1,333989
+Tata,Nexon,2016,124104,Fair,Petrol,Manual,1,272906
+Maruti Suzuki,WagonR,2012,165435,Excellent,Diesel,Manual,1,170407
+Toyota,Glanza,2017,105782,Good,EV,Manual,2,295974
+Tata,Nexon,2019,88449,Poor,Diesel,Manual,1,378630
+Tata,Harrier,2014,146103,Excellent,Diesel,Manual,1,328517
+Honda,Amaze,2022,49594,Good,Diesel,Automatic,2,712100
+Mahindra,Scorpio,2017,116237,Good,CNG,Automatic,1,416183
+Maruti Suzuki,Swift,2025,15839,Excellent,Diesel,Manual,2,825556
+Toyota,Fortuner,2022,45368,Poor,Petrol,Automatic,2,498524
+Maruti Suzuki,WagonR,2017,105180,Fair,Petrol,Manual,1,176537
+Honda,Civic,2017,96372,Good,Petrol,Manual,2,434002
+Toyota,Glanza,2015,131658,Fair,Petrol,Automatic,1,250788
+Hyundai,i20,2021,60226,Excellent,Petrol,Manual,1,407309
+Hyundai,i20,2012,162976,Poor,CNG,Manual,2,50000
+Hyundai,Creta,2018,97646,Excellent,Petrol,Manual,1,521241
+Toyota,Fortuner,2015,133358,Excellent,Petrol,Manual,2,175585
+Toyota,Fortuner,2021,52832,Good,Diesel,Manual,1,644127
+Toyota,Glanza,2018,90302,Fair,Petrol,Manual,1,336869
+Maruti Suzuki,Baleno,2022,46315,Fair,Diesel,Automatic,1,426432
+Mahindra,XUV700,2024,19230,Good,Petrol,Manual,1,647527
+Mahindra,XUV700,2021,57331,Good,CNG,Manual,1,884514
+Toyota,Fortuner,2019,90987,Good,Petrol,Manual,3,534770
+Honda,Civic,2012,161626,Poor,Petrol,Automatic,1,50000
+Hyundai,Creta,2016,123936,Poor,Petrol,Manual,2,103806
+Maruti Suzuki,WagonR,2024,26297,Poor,Diesel,Manual,2,448263
+Honda,Amaze,2014,145769,Fair,Petrol,Manual,2,81852
+Hyundai,Venue,2021,53433,Good,Petrol,Manual,1,388625
+Honda,Civic,2018,94552,Good,Petrol,Manual,1,425326
+Honda,Amaze,2023,36040,Good,Petrol,Manual,1,980438
+Honda,Civic,2017,107756,Good,Petrol,Automatic,4,122350
+Maruti Suzuki,Swift,2023,34727,Poor,Diesel,Automatic,1,507632
+Hyundai,Venue,2015,135653,Good,Petrol,Automatic,1,391549
+Mahindra,XUV700,2017,105428,Excellent,Diesel,Manual,1,403865
+Mahindra,Scorpio,2019,83496,Good,Diesel,Manual,1,702354
+Hyundai,Creta,2022,43268,Poor,Diesel,Manual,1,571638
+Maruti Suzuki,WagonR,2015,132094,Excellent,Diesel,Automatic,3,299807
+Tata,Harrier,2020,69393,Good,Petrol,Manual,2,681574
+Maruti Suzuki,Swift,2025,12751,Fair,Petrol,Manual,3,1044297
+Hyundai,i20,2019,82656,Good,Petrol,Automatic,1,688753
+Hyundai,Creta,2024,23509,Good,Diesel,Automatic,2,983881
+Maruti Suzuki,Swift,2016,124049,Fair,Diesel,Automatic,1,330473
+Honda,Amaze,2016,113145,Poor,Petrol,Manual,1,229512
+Honda,City,2013,163974,Good,Petrol,Manual,1,50000
+Toyota,Glanza,2021,61733,Excellent,Petrol,Automatic,1,838812
+Mahindra,XUV700,2012,166314,Good,CNG,Automatic,1,115231
+Mahindra,Thar,2013,152506,Poor,Diesel,Automatic,1,157820
+Tata,Nexon,2019,83906,Good,Petrol,Automatic,1,353265
+Tata,Harrier,2025,7920,Excellent,Diesel,Manual,2,1447432
+Toyota,Innova,2023,46607,Poor,Petrol,Manual,2,264978
+Maruti Suzuki,WagonR,2025,16526,Good,Diesel,Manual,1,1180233
+Toyota,Glanza,2016,115282,Excellent,Diesel,Automatic,2,424307
+Mahindra,Scorpio,2020,74211,Fair,Diesel,Automatic,2,519887
+Toyota,Innova,2016,121085,Excellent,Diesel,Manual,2,453425
+Honda,Civic,2025,18675,Good,Petrol,Manual,1,1180750
+Mahindra,Thar,2021,57637,Fair,Petrol,Manual,1,635255
+Maruti Suzuki,Baleno,2016,118125,Excellent,Petrol,Manual,1,168654
+Hyundai,Creta,2014,144218,Good,Petrol,Manual,2,54315
+Mahindra,XUV700,2025,13176,Good,Diesel,Manual,1,1190011
+Mahindra,Scorpio,2019,84282,Fair,Petrol,Automatic,1,472745
+Honda,Civic,2020,73241,Poor,Petrol,Manual,4,282433
+Hyundai,Creta,2012,167529,Excellent,Petrol,Automatic,1,163140
+Mahindra,Thar,2019,76859,Fair,Diesel,Automatic,2,474269
+Honda,City,2021,55459,Excellent,Diesel,Manual,1,910283
+Toyota,Glanza,2024,26014,Good,Diesel,Automatic,2,1055278
+Maruti Suzuki,Baleno,2019,77979,Good,Petrol,Manual,1,425507
+Honda,Civic,2024,18882,Poor,Diesel,Automatic,2,477983
+Toyota,Glanza,2020,79108,Fair,Petrol,Manual,2,208691
+Maruti Suzuki,Baleno,2023,35217,Good,Diesel,Manual,4,578295
+Hyundai,Creta,2014,141241,Fair,Petrol,Manual,1,290928
+Toyota,Glanza,2018,99349,Excellent,Petrol,Automatic,1,511219
+Toyota,Fortuner,2021,61269,Good,Petrol,Manual,2,711963
+Honda,City,2020,77070,Good,Petrol,Manual,2,725464
+Hyundai,i20,2023,40098,Fair,CNG,Automatic,3,830751
+Honda,Amaze,2013,152976,Good,Petrol,Manual,1,50000
+Honda,Amaze,2018,99147,Good,CNG,Manual,1,430334
+Tata,Nexon,2023,39280,Poor,Petrol,Manual,1,317754
+Mahindra,Thar,2016,123846,Good,Petrol,Manual,2,92430
+Toyota,Innova,2024,17821,Excellent,Petrol,Manual,2,879253
+Tata,Harrier,2014,153544,Good,Diesel,Manual,1,265359
+Honda,City,2022,58338,Fair,Petrol,Manual,2,438098
+Tata,Tiago,2016,128558,Good,Petrol,Manual,1,435650
+Tata,Nexon,2014,134102,Good,CNG,Automatic,1,178481
+Maruti Suzuki,Baleno,2016,117932,Good,Petrol,Automatic,1,339796
+Tata,Harrier,2012,166734,Good,CNG,Manual,1,216641
+Maruti Suzuki,Baleno,2017,116093,Excellent,Petrol,Manual,1,488034
+Tata,Harrier,2025,8941,Poor,Petrol,Manual,1,408555
+Hyundai,i20,2015,124752,Fair,Diesel,Manual,2,55158
+Tata,Tiago,2020,74603,Poor,Diesel,Manual,1,484743
+Honda,Civic,2022,45535,Excellent,Diesel,Automatic,2,1014897
+Maruti Suzuki,WagonR,2017,110689,Good,Petrol,Manual,1,481776
+Tata,Harrier,2018,91235,Excellent,Diesel,Automatic,1,660444
+Toyota,Fortuner,2014,143518,Poor,Petrol,Manual,2,122921
+Mahindra,Thar,2012,163108,Fair,Petrol,Automatic,1,50000
+Maruti Suzuki,WagonR,2020,77722,Good,Diesel,Manual,1,472930
+Hyundai,Creta,2025,12604,Poor,Petrol,Manual,1,484628
+Hyundai,Venue,2013,146429,Fair,CNG,Automatic,1,199192
+Honda,City,2015,124860,Good,Petrol,Manual,1,285334
+Tata,Tiago,2025,8981,Fair,Diesel,Manual,2,898603
+Mahindra,XUV700,2017,118199,Excellent,Diesel,Automatic,1,252178
+Hyundai,Venue,2021,61546,Poor,Diesel,Automatic,2,195081
+Honda,Amaze,2013,154936,Good,Petrol,Automatic,1,74204
+Hyundai,Venue,2012,168657,Good,CNG,Automatic,1,130111
+Hyundai,Venue,2025,17139,Excellent,Petrol,Manual,1,1096458
+Toyota,Glanza,2013,159785,Fair,Petrol,Automatic,2,147378
+Hyundai,Creta,2012,159380,Excellent,Petrol,Manual,2,173162
+Toyota,Glanza,2016,122454,Good,Diesel,Manual,1,419285
+Mahindra,Thar,2016,122461,Excellent,Diesel,Manual,3,245615
+Honda,Civic,2022,59555,Good,Petrol,Manual,1,524916
+Mahindra,XUV700,2024,19852,Excellent,Diesel,Manual,3,651526
+Tata,Harrier,2016,122324,Good,Petrol,Automatic,1,167515
+Mahindra,XUV700,2018,95076,Excellent,Petrol,Automatic,2,388744
+Toyota,Glanza,2017,112442,Excellent,Petrol,Manual,1,163101
+Maruti Suzuki,WagonR,2023,35556,Good,Petrol,Manual,1,704194
+Toyota,Innova,2024,27828,Good,Petrol,Automatic,2,761159
+Toyota,Innova,2022,38310,Good,Petrol,Manual,1,498131
+Honda,City,2013,151923,Poor,Petrol,Manual,1,112144
+Mahindra,Scorpio,2017,103976,Good,Diesel,Automatic,2,475064
+Honda,Civic,2015,138386,Good,Petrol,Automatic,1,394803
+Honda,Civic,2023,25033,Good,Petrol,Manual,1,1100786
+Honda,City,2020,77162,Good,Petrol,Manual,1,370585
+Toyota,Fortuner,2017,112354,Good,Petrol,Automatic,3,121767
+Honda,Civic,2012,169120,Good,Petrol,Manual,1,169410
+Maruti Suzuki,Baleno,2022,50164,Good,Petrol,Manual,1,382051
+Mahindra,Scorpio,2021,59465,Fair,Petrol,Manual,2,667872
+Maruti Suzuki,Swift,2012,173775,Fair,Diesel,Manual,1,127675
+Honda,Amaze,2014,144114,Fair,CNG,Manual,2,152880
+Maruti Suzuki,Swift,2018,92013,Poor,Petrol,Manual,1,128266
+Honda,Civic,2013,160291,Good,Diesel,Manual,1,113658
+Maruti Suzuki,Swift,2020,69890,Fair,EV,Automatic,1,540636
+Hyundai,Creta,2020,78524,Good,Petrol,Manual,1,764953
+Mahindra,Thar,2013,162247,Good,Diesel,Manual,1,50000
+Maruti Suzuki,Swift,2015,130199,Good,CNG,Manual,1,328540
+Toyota,Fortuner,2017,112668,Good,CNG,Manual,2,113972
+Mahindra,Thar,2022,45999,Good,Petrol,Manual,1,399040
+Maruti Suzuki,Baleno,2014,143724,Poor,Petrol,Automatic,1,65913
+Mahindra,XUV700,2013,154384,Good,Diesel,Manual,3,50000
+Mahindra,XUV700,2022,52152,Good,EV,Automatic,2,688820
+Honda,Amaze,2016,122617,Fair,CNG,Manual,1,305542
+Maruti Suzuki,Swift,2022,48652,Good,Petrol,Automatic,2,360429
+Maruti Suzuki,Swift,2024,19978,Fair,Diesel,Automatic,2,740086
+Tata,Nexon,2015,141324,Fair,CNG,Manual,1,115200
+Mahindra,Thar,2012,171704,Good,Diesel,Automatic,1,50000
+Tata,Nexon,2019,79082,Poor,Petrol,Manual,2,224405
+Hyundai,i20,2025,11555,Good,Petrol,Manual,1,1234841
+Toyota,Innova,2020,74332,Good,CNG,Automatic,1,561708
+Hyundai,Venue,2022,45060,Good,Diesel,Manual,2,542670
+Mahindra,Scorpio,2021,59294,Good,Diesel,Manual,4,477426
+Honda,City,2016,115690,Fair,Diesel,Automatic,2,376832
+Maruti Suzuki,Swift,2023,32446,Fair,CNG,Manual,1,440129
+Honda,City,2014,142549,Fair,Petrol,Manual,1,291050
+Mahindra,XUV700,2014,139362,Fair,Diesel,Manual,1,187282
+Hyundai,Venue,2019,89041,Good,EV,Manual,1,422193
+Mahindra,XUV700,2018,90391,Excellent,Diesel,Automatic,2,590280
+Toyota,Innova,2012,166661,Good,EV,Manual,1,216438
+Mahindra,XUV700,2017,101633,Excellent,Diesel,Manual,2,376605
+Toyota,Fortuner,2015,140413,Good,Diesel,Manual,1,241128
+Toyota,Fortuner,2015,130288,Excellent,CNG,Manual,1,221716
+Honda,Amaze,2012,165629,Fair,CNG,Manual,1,150641
+Toyota,Innova,2014,152549,Good,Petrol,Manual,2,281141
+Honda,Civic,2017,106372,Good,CNG,Manual,2,479327
+Tata,Nexon,2018,96945,Good,Petrol,Automatic,4,363765
+Mahindra,Scorpio,2020,73217,Fair,Diesel,Manual,3,217285
+Maruti Suzuki,WagonR,2022,46600,Good,Petrol,Automatic,1,364758
+Maruti Suzuki,Swift,2014,142203,Good,Petrol,Automatic,2,268208
+Tata,Nexon,2025,10713,Good,Petrol,Manual,1,546700
+Mahindra,XUV700,2012,164942,Poor,Petrol,Automatic,1,129546
+Honda,Amaze,2020,67567,Excellent,Diesel,Automatic,3,607945
+Toyota,Fortuner,2016,114606,Excellent,Diesel,Manual,1,521542
+Hyundai,i20,2015,129888,Excellent,Petrol,Manual,2,232731
+Tata,Nexon,2023,37844,Excellent,Diesel,Manual,2,696597
+Maruti Suzuki,Baleno,2023,36058,Good,Diesel,Automatic,1,1017608
+Toyota,Glanza,2015,134734,Good,Petrol,Manual,2,344150
+Hyundai,i20,2013,155253,Excellent,Petrol,Manual,1,232222
+Mahindra,Scorpio,2015,138559,Good,Petrol,Automatic,1,114562
+Mahindra,XUV700,2019,77079,Good,EV,Manual,3,450918
+Mahindra,XUV700,2024,17661,Fair,Diesel,Manual,1,787178
+Maruti Suzuki,WagonR,2024,18799,Good,Diesel,Manual,1,969883

@@ -1,0 +1,1032 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AutoCockpit | AI Vehicle Valuation</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --bg-body: #0a0b0e;
+            --bg-surface: #12141a;
+            --bg-panel: #181b23;
+            --bg-inset: #0e1015;
+            --border: rgba(255, 255, 255, 0.08);
+            --border-subtle: rgba(255, 255, 255, 0.04);
+
+            --accent-orange: #ff7300;
+            --accent-orange-bright: #ff8c2b;
+            --orange-glow: rgba(255, 115, 0, 0.35);
+            --accent-green: #00e676;
+            --green-glow: rgba(0, 230, 118, 0.25);
+            --accent-blue: #38bdf8;
+            --accent-red: #ff4444;
+
+            --text-primary: #ffffff;
+            --text-secondary: #9499aa;
+            --text-muted: #585d70;
+
+            --radius-xl: 24px;
+            --radius-lg: 16px;
+            --radius-md: 12px;
+            --radius-pill: 9999px;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Plus Jakarta Sans', -apple-system, sans-serif;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        body {
+            background-color: var(--bg-body);
+            color: var(--text-primary);
+            min-height: 100vh;
+            padding: 2rem;
+            position: relative;
+            overflow-x: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        body::before {
+            content: '';
+            position: absolute;
+            top: -150px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 800px;
+            height: 500px;
+            background: radial-gradient(ellipse, rgba(255, 115, 0, 0.08) 0%, rgba(56, 189, 248, 0.02) 50%, transparent 70%);
+            z-index: -1;
+            pointer-events: none;
+        }
+
+        .dashboard {
+            width: 100%;
+            max-width: 1400px;
+            display: grid;
+            grid-template-columns: 420px 1fr;
+            gap: 2rem;
+            align-items: stretch;
+            margin-top: 1rem;
+        }
+
+        /* Header / Nav */
+        .top-nav {
+            width: 100%;
+            max-width: 1400px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1.5rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .brand {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .brand h1 {
+            font-size: 1.5rem;
+            font-weight: 800;
+            letter-spacing: -0.02em;
+        }
+
+        .live-status {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--accent-orange);
+            background: rgba(255, 115, 0, 0.1);
+            padding: 6px 12px;
+            border-radius: var(--radius-pill);
+            border: 1px solid rgba(255, 115, 0, 0.2);
+        }
+
+        .live-dot {
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: var(--accent-orange);
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.5; transform: scale(0.8); }
+        }
+
+        /* Left Console: Tabbed Interface */
+        .input-console {
+            background: var(--bg-surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-xl);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+        }
+
+        .tabs {
+            display: flex;
+            background: var(--bg-inset);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .tab-btn {
+            flex: 1;
+            padding: 1.25rem 0;
+            background: transparent;
+            border: none;
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            border-bottom: 2px solid transparent;
+        }
+
+        .tab-btn:hover {
+            color: var(--text-primary);
+            background: rgba(255, 255, 255, 0.02);
+        }
+
+        .tab-btn.active {
+            color: var(--accent-orange);
+            border-bottom-color: var(--accent-orange);
+            background: rgba(255, 115, 0, 0.05);
+        }
+
+        .tab-content {
+            display: none;
+            padding: 2rem;
+            flex-grow: 1;
+        }
+
+        .tab-content.active {
+            display: block;
+            animation: fadeIn 0.3s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(5px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Inputs & Forms */
+        .field {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            margin-bottom: 1.25rem;
+        }
+
+        .field-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+        }
+
+        label {
+            font-size: 0.75rem;
+            font-weight: 700;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        input, select, textarea {
+            background: var(--bg-inset);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-md);
+            padding: 0.85rem 1rem;
+            color: var(--text-primary);
+            font-size: 0.95rem;
+            outline: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+            width: 100%;
+        }
+
+        input:focus, select:focus, textarea:focus {
+            border-color: var(--accent-orange);
+            box-shadow: 0 0 0 2px rgba(255, 115, 0, 0.15);
+        }
+
+        textarea {
+            resize: vertical;
+            min-height: 120px;
+        }
+
+        /* Dropzone */
+        .dropzone {
+            border: 1px dashed var(--border);
+            border-radius: var(--radius-md);
+            background: var(--bg-inset);
+            padding: 2.5rem 1rem;
+            text-align: center;
+            cursor: pointer;
+            position: relative;
+            transition: all 0.2s;
+            margin-bottom: 1.5rem;
+        }
+
+        .dropzone:hover {
+            border-color: var(--accent-orange);
+            background: rgba(255, 115, 0, 0.03);
+        }
+
+        .dropzone input[type="file"] {
+            position: absolute;
+            inset: 0;
+            opacity: 0;
+            cursor: pointer;
+        }
+
+        .icon-circle {
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            background: var(--bg-panel);
+            border: 1px solid var(--border);
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 1rem;
+        }
+
+        .icon-circle svg {
+            width: 22px;
+            height: 22px;
+            stroke: var(--accent-orange);
+        }
+
+        /* Buttons */
+        .btn {
+            width: 100%;
+            padding: 1rem;
+            border-radius: var(--radius-pill);
+            font-size: 0.95rem;
+            font-weight: 700;
+            border: none;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            transition: all 0.2s;
+        }
+
+        .btn-orange {
+            background: linear-gradient(135deg, var(--accent-orange-bright), var(--accent-orange));
+            color: #000;
+            box-shadow: 0 8px 20px var(--orange-glow);
+        }
+
+        .btn-orange:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 25px rgba(255, 115, 0, 0.5);
+        }
+
+        .btn-outline {
+            background: transparent;
+            border: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .btn-outline:hover {
+            border-color: var(--accent-orange);
+            color: var(--accent-orange);
+            background: rgba(255, 115, 0, 0.05);
+        }
+
+        /* Slider */
+        input[type="range"] {
+            -webkit-appearance: none;
+            height: 4px;
+            background: var(--bg-panel);
+            border-radius: var(--radius-pill);
+            border: none;
+            margin: 0.8rem 0;
+        }
+        input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: var(--accent-orange);
+            box-shadow: 0 0 10px var(--orange-glow);
+            cursor: pointer;
+        }
+
+        /* Right Console: Analytics */
+        .analytics-console {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .billboard {
+            background: linear-gradient(145deg, #181c25 0%, #101218 100%);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-xl);
+            padding: 3rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: flex-start;
+            position: relative;
+            overflow: hidden;
+            min-height: 250px;
+        }
+
+        .billboard::after {
+            content: '';
+            position: absolute;
+            right: -50px;
+            top: -50px;
+            width: 300px;
+            height: 300px;
+            background: radial-gradient(circle, var(--green-glow) 0%, transparent 60%);
+            pointer-events: none;
+        }
+
+        .price-label {
+            font-size: 0.85rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-secondary);
+            margin-bottom: 0.5rem;
+        }
+
+        .price-value {
+            font-size: 4.5rem;
+            font-weight: 800;
+            line-height: 1;
+            letter-spacing: -0.04em;
+            color: var(--accent-green);
+            text-shadow: 0 0 40px var(--green-glow);
+            margin-bottom: 1rem;
+        }
+
+        .price-note {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            max-width: 600px;
+        }
+
+        /* Telemetry & Chart Area (Hidden initially) */
+        #telemetry-view {
+            display: none;
+            flex-direction: column;
+            gap: 1.5rem;
+            animation: fadeIn 0.5s ease-out;
+        }
+
+        .specs-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1rem;
+        }
+
+        .spec-card {
+            background: var(--bg-surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-lg);
+            padding: 1.25rem;
+        }
+
+        .spec-title {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+            text-transform: uppercase;
+        }
+
+        .spec-val {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            line-height: 1.3;
+        }
+
+        .chart-panel {
+            background: var(--bg-surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-xl);
+            padding: 1.5rem;
+            height: 420px;
+            position: relative;
+        }
+
+        /* Progress Bars */
+        .progress-box {
+            display: none;
+            margin-top: 1.5rem;
+            background: var(--bg-inset);
+            padding: 1rem;
+            border-radius: var(--radius-md);
+            border: 1px solid var(--border);
+        }
+        .progress-header {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.8rem;
+            margin-bottom: 0.5rem;
+            color: var(--text-secondary);
+        }
+        .progress-track {
+            height: 4px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: var(--radius-pill);
+            overflow: hidden;
+        }
+        .progress-fill {
+            height: 100%;
+            width: 0%;
+            background: var(--accent-orange);
+            box-shadow: 0 0 10px var(--accent-orange);
+            transition: width 0.3s ease;
+        }
+        .status-msg {
+            font-size: 0.8rem;
+            margin-top: 0.75rem;
+            text-align: center;
+        }
+
+        @media (max-width: 1024px) {
+            .dashboard { grid-template-columns: 1fr; }
+            .specs-grid { grid-template-columns: repeat(2, 1fr); }
+            .price-value { font-size: 3.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <nav class="top-nav">
+        <div class="brand">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="var(--accent-orange)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+            </svg>
+            <h1>AutoCockpit</h1>
+        </div>
+        <div class="live-status">
+            <div class="live-dot"></div> CORE SYSTEMS ONLINE
+        </div>
+    </nav>
+
+    <div class="dashboard">
+        <!-- Left: Input Console -->
+        <div class="input-console">
+            <div class="tabs">
+                <button class="tab-btn active" onclick="switchTab('manual')">Setup</button>
+                <button class="tab-btn" onclick="switchTab('vision')">Vision AI</button>
+                <button class="tab-btn" onclick="switchTab('chat')">Parser</button>
+            </div>
+
+            <!-- TAB 1: Manual Setup -->
+            <div id="tab-manual" class="tab-content active">
+                <form id="valuation-form" onsubmit="calculateResalePrice(event)">
+                    <div class="field-row">
+                        <div class="field">
+                            <label>Make / Brand</label>
+                            <select id="brand" required>
+                                <option value="" disabled selected>Select Brand</option>
+                                <!-- Populated dynamically via DB -->
+                            </select>
+                        </div>
+                        <div class="field">
+                            <label>Model</label>
+                            <input type="text" id="model" required placeholder="e.g. Harrier">
+                        </div>
+                    </div>
+
+                    <div class="field-row">
+                        <div class="field">
+                            <label>Year</label>
+                            <input type="number" id="year" min="2005" max="2026" required placeholder="2022">
+                        </div>
+                        <div class="field">
+                            <label>Mileage (km)</label>
+                            <input type="number" id="mileage" min="0" required placeholder="15000">
+                        </div>
+                    </div>
+
+                    <div class="field-row">
+                        <div class="field">
+                            <label>Fuel Type</label>
+                            <select id="fuel_type">
+                                <option value="Petrol">Petrol</option>
+                                <option value="Diesel" selected>Diesel</option>
+                                <option value="CNG">CNG</option>
+                                <option value="EV">Electric</option>
+                            </select>
+                        </div>
+                        <div class="field">
+                            <label>Transmission</label>
+                            <select id="transmission">
+                                <option value="Manual">Manual</option>
+                                <option value="Automatic" selected>Automatic</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="field">
+                        <label>Condition Profile</label>
+                        <select id="condition">
+                            <option value="Excellent">Excellent (Showroom)</option>
+                            <option value="Good" selected>Good (Standard Wear)</option>
+                            <option value="Fair">Fair (Scratches/Retouches)</option>
+                            <option value="Poor">Poor (Major Wear)</option>
+                        </select>
+                    </div>
+
+                    <div class="field">
+                        <label style="display: flex; justify-content: space-between;">
+                            Ownership History 
+                            <span id="owner-count-tag" style="color: var(--accent-orange);">1st Owner</span>
+                        </label>
+                        <input type="range" id="owners" min="1" max="4" value="1" oninput="updateOwnerLabel(this.value)">
+                    </div>
+
+                    <button type="submit" class="btn btn-orange" style="margin-top: 1rem;">
+                        Initialize Valuation Engine
+                    </button>
+                </form>
+            </div>
+
+            <!-- TAB 2: Vision AI -->
+            <div id="tab-vision" class="tab-content">
+                <p style="color: var(--text-secondary); font-size: 0.9rem; margin-bottom: 1.5rem; line-height: 1.5;">
+                    Upload a high-resolution exterior photo. The neural network will extract primary physical parameters.
+                </p>
+                <div class="dropzone">
+                    <input type="file" id="car-image-input" accept="image/*" onchange="handleFileSelection(event)">
+                    <div class="icon-circle">
+                        <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="3"/>
+                        </svg>
+                    </div>
+                    <div style="font-weight: 600; color: #fff; margin-bottom: 4px;">Initialize Vision Scan</div>
+                    <div style="font-size: 0.8rem; color: var(--text-muted);">Drop image here or click to browse</div>
+                    <div id="file-name-preview" style="margin-top: 10px; font-size: 0.8rem; color: var(--accent-orange);"></div>
+                </div>
+
+                <button class="btn btn-outline" onclick="scanCarImage()">Engage Optical Extraction</button>
+
+                <div id="vision-progress-card" class="progress-box">
+                    <div class="progress-header">
+                        <span id="vision-progress-label">Uploading...</span>
+                        <span id="vision-progress-pct">0%</span>
+                    </div>
+                    <div class="progress-track"><div id="vision-progress-fill" class="progress-fill"></div></div>
+                </div>
+                <div id="vision-status" class="status-msg"></div>
+            </div>
+
+            <!-- TAB 3: Chat Parser -->
+            <div id="tab-chat" class="tab-content">
+                <p style="color: var(--text-secondary); font-size: 0.9rem; margin-bottom: 1.5rem; line-height: 1.5;">
+                    Input natural language descriptions. The NLP engine will map entities to the configuration matrix.
+                </p>
+                <div class="field">
+                    <textarea id="chat-text-input" placeholder="e.g. '2021 Petrol Kia Seltos GTX Automatic, 32,000 km, single owner in immaculate shape'"></textarea>
+                </div>
+                
+                <button class="btn btn-outline" onclick="parseChatDescription()">Execute Semantic Parsing</button>
+
+                <div id="chat-progress-card" class="progress-box">
+                    <div class="progress-header">
+                        <span id="chat-progress-label">Processing...</span>
+                        <span id="chat-progress-pct">0%</span>
+                    </div>
+                    <div class="progress-track"><div id="chat-progress-fill" class="progress-fill"></div></div>
+                </div>
+                <div id="chat-status" class="status-msg"></div>
+            </div>
+        </div>
+
+        <!-- Right: Analytics Console -->
+        <div class="analytics-console">
+            <div class="billboard">
+                <div class="price-label">Current Secondary Market Value</div>
+                <div class="price-value" id="price-display">₹---,---</div>
+                <div class="price-note" id="calculation-note">
+                    Awaiting configuration telemetry to compute baseline depreciation matrix.
+                </div>
+                
+                <!-- Action to trigger chart, shown only after price calculation -->
+                <button id="graph-btn" class="btn btn-outline" style="width: auto; padding: 0.75rem 1.5rem; margin-top: 1.5rem; display: none;" onclick="generateGraph()">
+                    Run Multi-Year Depreciation Simulation
+                </button>
+            </div>
+
+            <!-- Hidden until graph is generated -->
+            <div id="telemetry-view">
+                <div class="specs-grid" id="spec-badges">
+                    <!-- JS injected -->
+                </div>
+                <div class="chart-panel">
+                    <canvas id="valueChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<script>
+    let currentVehiclePayload = null;
+    let valueChartInstance = null;
+    let carDatabase = {};
+
+    const inrFormat = new Intl.NumberFormat('en-IN', {
+        style: 'currency',
+        currency: 'INR',
+        maximumFractionDigits: 0
+    });
+
+    // Fetch DB on load to populate Brand dropdown
+    document.addEventListener("DOMContentLoaded", async () => {
+        try {
+            const res = await fetch("/api/car-database");
+            carDatabase = await res.json();
+            
+            const brandSelect = document.getElementById('brand');
+            const brands = Object.keys(carDatabase).sort();
+            
+            brands.forEach(b => {
+                const option = document.createElement('option');
+                option.value = b; 
+                option.text = b.replace(/\b\w/g, l => l.toUpperCase()); 
+                brandSelect.appendChild(option);
+            });
+        } catch (err) {
+            console.error("Failed to load car database", err);
+        }
+    });
+
+    // Tab Switching Logic
+    function switchTab(tabId) {
+        document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
+        document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
+        
+        document.getElementById(`tab-${tabId}`).classList.add('active');
+        // Handle clicking direct nav buttons vs programmatic switching
+        const tabs = document.querySelectorAll('.tab-btn');
+        if (tabId === 'manual') tabs[0].classList.add('active');
+        if (tabId === 'vision') tabs[1].classList.add('active');
+        if (tabId === 'chat') tabs[2].classList.add('active');
+    }
+
+    function handleFileSelection(e) {
+        const file = e.target.files[0];
+        if (file) document.getElementById('file-name-preview').innerText = file.name;
+    }
+
+    function updateOwnerLabel(val) {
+        const labels = { 1: "1st Owner", 2: "2nd Owner", 3: "3rd Owner", 4: "4th+ Owner" };
+        document.getElementById('owner-count-tag').innerText = labels[val] || `${val} Owners`;
+    }
+
+    function populateFields(data) {
+        if (data.brand) {
+            const brandVal = data.brand.toLowerCase();
+            const brandSelect = document.getElementById('brand');
+            
+            // Check if the AI's brand exists in our dropdown
+            if (Array.from(brandSelect.options).some(opt => opt.value === brandVal)) {
+                brandSelect.value = brandVal;
+            }
+        }
+        
+        if (data.model) {
+            // Capitalize the first letter of each word for a cleaner UI
+            document.getElementById('model').value = data.model.replace(/\b\w/g, l => l.toUpperCase());
+        }
+        
+        if (data.year) document.getElementById('year').value = data.year;
+        if (data.mileage) document.getElementById('mileage').value = data.mileage;
+        if (data.condition) document.getElementById('condition').value = data.condition;
+        if (data.fuel_type) document.getElementById('fuel_type').value = data.fuel_type;
+        if (data.transmission) document.getElementById('transmission').value = data.transmission;
+        
+        // Auto-switch to Setup tab to show extracted data
+        switchTab('manual');
+    }
+
+    function setProgressBar(prefix, active, text = "", pct = 0) {
+        const card = document.getElementById(`${prefix}-progress-card`);
+        const label = document.getElementById(`${prefix}-progress-label`);
+        const fill = document.getElementById(`${prefix}-progress-fill`);
+        const pctEl = document.getElementById(`${prefix}-progress-pct`);
+
+        if (active) {
+            card.style.display = 'block';
+            label.innerText = text;
+            fill.style.width = `${pct}%`;
+            pctEl.innerText = `${pct}%`;
+        } else {
+            if (pct >= 100) {
+                fill.style.width = '100%';
+                pctEl.innerText = '100%';
+                setTimeout(() => { card.style.display = 'none'; }, 1000);
+            } else {
+                card.style.display = 'none';
+            }
+        }
+    }
+
+    async function scanCarImage() {
+        const fileInput = document.getElementById('car-image-input');
+        const status = document.getElementById('vision-status');
+        if (!fileInput.files.length) {
+            status.innerText = "Please select an image.";
+            status.style.color = "var(--accent-red)";
+            return;
+        }
+
+        const formData = new FormData();
+        formData.append("file", fileInput.files[0]);
+        status.innerText = "";
+
+        setProgressBar('vision', true, 'Uploading image data...', 20);
+
+        const progressTimer = setInterval(() => {
+            const current = parseInt(document.getElementById('vision-progress-pct').innerText) || 20;
+            if (current < 85) {
+                setProgressBar('vision', true, 'Executing optical analysis...', current + Math.floor(Math.random() * 10) + 5);
+            }
+        }, 500);
+
+        try {
+            const res = await fetch("/api/extract-car-details", { method: "POST", body: formData });
+            clearInterval(progressTimer);
+
+            if (!res.ok) {
+                const errorData = await res.json().catch(() => ({}));
+                throw new Error(errorData.detail || `Server error ${res.status}`);
+            }
+
+            const data = await res.json();
+            setProgressBar('vision', true, 'Data successfully mapped.', 100);
+            populateFields(data);
+            setProgressBar('vision', false, 'Complete', 100);
+        } catch (err) {
+            clearInterval(progressTimer);
+            setProgressBar('vision', false);
+            status.innerText = "Extraction failed: " + err.message;
+            status.style.color = "var(--accent-red)";
+        }
+    }
+
+    async function parseChatDescription() {
+        const text = document.getElementById('chat-text-input').value.trim();
+        const status = document.getElementById('chat-status');
+        if (!text) {
+            status.innerText = "Please enter description data.";
+            status.style.color = "var(--accent-red)";
+            return;
+        }
+
+        status.innerText = "";
+        setProgressBar('chat', true, 'Tokenizing input...', 25);
+
+        const progressTimer = setInterval(() => {
+            const current = parseInt(document.getElementById('chat-progress-pct').innerText) || 25;
+            if (current < 85) {
+                setProgressBar('chat', true, 'Resolving entities...', current + Math.floor(Math.random() * 15) + 5);
+            }
+        }, 400);
+
+        try {
+            const res = await fetch("/api/chat-valuation", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ message: text })
+            });
+            clearInterval(progressTimer);
+
+            if (!res.ok) {
+                const errorData = await res.json().catch(() => ({}));
+                throw new Error(errorData.detail || `Server error ${res.status}`);
+            }
+
+            const data = await res.json();
+            setProgressBar('chat', true, 'Mapping complete.', 100);
+            populateFields(data);
+            setProgressBar('chat', false, 'Complete', 100);
+        } catch (err) {
+            clearInterval(progressTimer);
+            setProgressBar('chat', false);
+            status.innerText = "Parse failed: " + err.message;
+            status.style.color = "var(--accent-red)";
+        }
+    }
+
+    async function calculateResalePrice(e) {
+        e.preventDefault();
+        currentVehiclePayload = {
+            brand: document.getElementById('brand').value,
+            model: document.getElementById('model').value,
+            year: parseInt(document.getElementById('year').value),
+            mileage: parseInt(document.getElementById('mileage').value),
+            condition: document.getElementById('condition').value,
+            fuel_type: document.getElementById('fuel_type').value,
+            transmission: document.getElementById('transmission').value,
+            owners: parseInt(document.getElementById('owners').value)
+        };
+
+        const priceDisplay = document.getElementById('price-display');
+        const note = document.getElementById('calculation-note');
+        
+        priceDisplay.innerText = "Computing...";
+        priceDisplay.style.color = "var(--accent-green)"; // Ensure reset from previous errors
+        
+        // Hide telemetry view if a new computation starts
+        document.getElementById('telemetry-view').style.display = "none";
+        document.getElementById('graph-btn').style.display = "none";
+
+        try {
+            const res = await fetch("/api/predict", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(currentVehiclePayload)
+            });
+            
+            if (!res.ok) {
+                const errorData = await res.json().catch(() => ({}));
+                // Catch 404s and validation errors thrown from the backend
+                throw new Error(errorData.detail || `Server error ${res.status}`);
+            }
+            
+            const result = await res.json();
+
+            priceDisplay.innerText = inrFormat.format(result.estimated_price);
+            note.innerText = result.status === "success" 
+                ? "Calibrated via trained Random Forest ML pipeline." 
+                : "Computed using heuristic statutory depreciation algorithms.";
+            note.style.color = "var(--text-secondary)";
+
+            document.getElementById('graph-btn').style.display = "inline-flex";
+        } catch (err) {
+            priceDisplay.innerText = "INVALID VEHICLE";
+            priceDisplay.style.color = "var(--accent-red)";
+            
+            // Cleanly display the validation hint string
+            let errorMsg = err.message.replace('Engine failure: ', '').trim();
+            note.innerText = errorMsg; 
+            note.style.color = "var(--accent-red)";
+        }
+    }
+
+    async function generateGraph() {
+        if (!currentVehiclePayload) return;
+        const btn = document.getElementById('graph-btn');
+        btn.innerText = "Simulating...";
+
+        try {
+            const res = await fetch("/api/visual-analysis", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(currentVehiclePayload)
+            });
+            
+            if (!res.ok) {
+                const errorData = await res.json().catch(() => ({}));
+                throw new Error(errorData.detail || `Server error ${res.status}`);
+            }
+            
+            const data = await res.json();
+
+            const specContainer = document.getElementById('spec-badges');
+            specContainer.innerHTML = `
+                <div class="spec-card">
+                    <div class="spec-title">Powertrain</div>
+                    <div class="spec-val">${data.specs.engine}</div>
+                </div>
+                <div class="spec-card">
+                    <div class="spec-title">Avg Annual Drop</div>
+                    <div class="spec-val" style="color: var(--accent-orange-bright);">↓ ${data.specs.avg_depreciation}</div>
+                </div>
+                <div class="spec-card">
+                    <div class="spec-title">Efficiency Est.</div>
+                    <div class="spec-val">${data.specs.efficiency}</div>
+                </div>
+                <div class="spec-card">
+                    <div class="spec-title">Condition Profile</div>
+                    <div class="spec-val" style="font-size: 0.85rem;">${data.specs.defects}</div>
+                </div>
+            `;
+
+            document.getElementById('telemetry-view').style.display = "flex";
+            btn.style.display = "none";
+            btn.innerText = "Run Multi-Year Depreciation Simulation";
+
+            const ctx = document.getElementById('valueChart').getContext('2d');
+            if (valueChartInstance) valueChartInstance.destroy();
+
+            const gradient = ctx.createLinearGradient(0, 0, 0, 350);
+            gradient.addColorStop(0, 'rgba(255, 115, 0, 0.4)');
+            gradient.addColorStop(1, 'rgba(255, 115, 0, 0)');
+
+            valueChartInstance = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: data.years,
+                    datasets: [{
+                        label: 'Estimated Market Value',
+                        data: data.prices,
+                        borderColor: '#ff7300',
+                        backgroundColor: gradient,
+                        borderWidth: 3,
+                        fill: true,
+                        tension: 0.35,
+                        pointBackgroundColor: '#12141a',
+                        pointBorderColor: '#ff7300',
+                        pointBorderWidth: 2,
+                        pointRadius: 5,
+                        pointHoverBackgroundColor: '#ff7300',
+                        pointHoverBorderColor: '#fff',
+                        pointHoverRadius: 8
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    animation: { duration: 1000, easing: 'easeOutQuart' },
+                    interaction: { mode: 'index', intersect: false },
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            backgroundColor: '#181b23',
+                            titleColor: '#fff',
+                            bodyColor: '#9499aa',
+                            titleFont: { size: 14, weight: '700' },
+                            bodyFont: { size: 13 },
+                            borderColor: 'rgba(255,255,255,0.1)',
+                            borderWidth: 1,
+                            padding: 16,
+                            cornerRadius: 12,
+                            callbacks: {
+                                label: function(context) {
+                                    let price = 'Value: ' + inrFormat.format(context.raw);
+                                    let yoy = data.yoy_drops ? data.yoy_drops[context.dataIndex] : '';
+                                    return `${price}   (${yoy})`;
+                                },
+                                afterLabel: function(context) {
+                                    return '\nEvent Trigger:\n' + wrapText(data.context[context.dataIndex], 45);
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        y: {
+                            ticks: { color: '#585d70', callback: value => '₹' + (value/100000).toFixed(1) + 'L' },
+                            grid: { color: 'rgba(255,255,255,0.03)', borderDash: [5, 5] },
+                            border: { display: false }
+                        },
+                        x: {
+                            ticks: { color: '#585d70', font: { weight: '600' } },
+                            grid: { display: false },
+                            border: { display: false }
+                        }
+                    }
+                }
+            });
+        } catch (err) {
+            alert("Analysis rendering failed: " + err.message);
+            btn.innerText = "Run Multi-Year Depreciation Simulation";
+        }
+    }
+
+    function wrapText(text, maxChars) {
+        if (!text) return '';
+        const words = text.split(' ');
+        let lines = [];
+        let currentLine = '';
+        words.forEach(word => {
+            if ((currentLine + word).length > maxChars) {
+                lines.push(currentLine.trim());
+                currentLine = word + ' ';
+            } else currentLine += word + ' ';
+        });
+        if (currentLine.trim()) lines.push(currentLine.trim());
+        return lines.join('\n');
+    }
+</script>
+</body>
+</html>
